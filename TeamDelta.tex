@@ -1,7 +1,7 @@
 \documentclass[a4paper,12pt]{report}
 \addtolength{\oddsidemargin}{-1.cm}
 \addtolength{\textwidth}{2cm}
-\addtolength{\topmargin}{-2cm}
+\addtolength{\topmargin}{-3cm}
 \addtolength{\textheight}{3.5cm}
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 \makeindex
@@ -28,9 +28,10 @@
 % generates the title
 	\begin{titlepage}
 		\begin{center}
+			\includegraphics[width=1\textwidth]{./up-logo.jpg}\\[1.5cm] 
 			\textsc{\LARGE Department of Computer Science} \\ [.5cm]
 			\textsc{\Large COS 301 - Mini Project} \\ [.5cm]
-			\textsc{\Large Assignment 1} \\ [.5cm]
+			\textsc{\Large Assignment 1} \\ [1.5cm]
 			\line(1,0){450}\\[.5cm]
 			\huge{\bfseries Software Requirements Specification and Technology Neutral Process Design}\\
 			\line(1,0){450}\\[1cm]
@@ -50,25 +51,52 @@
 \renewcommand{\thesection}{\arabic{section}}
 \newpage
 \begin{center}
-\textsc{\LARGE Requirements Specification}\\[1.5cm]
-\textsc{\Large Delta Delta github repository link}\\[0.5cm]
+\textsc{\Large Delta github repository link}\\[0.5cm]
 For further references see \href{https://github.com/u12081095/COS301-Team-Delta}{gitHub}.
-\today
 \end{center}
 
 
 \newpage
 \section{Introduction}
 
+This document sets out the Software Requirements Specification and Technology Neutral Process Design for COS 301. The Computer Science Department has expressed the need for the creation an application that will allow the department to keep track of publications that the department happens to be working on. The application will also keep track of who is working on these publications. Publications can consist of either articles or journals. The purpose of the document is to provide sufficient information in such a way that precise and testable requirements are provided. The document serves as an intermediate specification between the high-level requirements and technical design and implementation. 
+
 \newpage
 \section{Vision}
+
+The client for this project, Department of Computer Science, has called for the design of an application that will allow the department to keep track of research all publications that are being written and published by the department.  The idea behind this project is to allow the department to easily keep track of publications within in the department, as well as keeping of older publications within the department.
+
+This application is intended to simply the work and effort in keeping track of these publications. That also means that users should be able to access to do this through either a computer or an Android application. It should allow the authors and staff member, of the department, too easily to easily add, update and remove publications. It should also allow the authors of these publications to update the progress and status (rejected, accepted, etc.) of each of their publications. Other information such as the number of authors, type of publication should also be included. The department should then be able to see all the information for each author or as a summary page.
 
 \newpage
 \section{Background}
 
+\newpage
+\section{Architecture Requirements}
+\subsubsection{4.1 Access Channel Requirements}
+\subsubsection{4.2 Quality Requirements}
+\subsubsection{4.3 Integration Requirements}
+
+\subsubsection{4.4 Architecture Constraints}
+The Architecture constraints were indicated on 16.02.2016 in a Client requirements session and lists the following technologies that will be used in the project:
+\begin{itemize}
+	\item[$\bullet$]HTML (Hypertext Markup Language) 
+	\item[$\bullet$]PHP
+	\item[$\bullet$]AJAX (Asynchronous JavaScript and XML)
+	\item[$\bullet$]Git (Version Control System)
+	\item[$\bullet$]Andriod
+	\\
+\end{itemize}
+
+\newpage
+\section{Functional Requirements and Application Design}
+\subsubsection{5.1 Use Case Prioritisation}
+\subsubsection{5.2 Use Case/Services Contracts}
+\subsubsection{5.3 Required functionality}
+\subsubsection{5.4 Process specifications}
+\subsubsection{5.5 Domain Model}
 
 \newpage
 \section{References}
-
 
 \end{document}
