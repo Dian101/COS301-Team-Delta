@@ -182,6 +182,50 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 	\\
 \end{itemize}
 \subsection{Use Case/Services Contracts}
+\begin{itemize}
+	\item[$\bullet$]Registration
+	\textbf{Registration}
+	A user is able to register an account on the publishing website to gain access to more features on the site.
+
+	Pre-Conditions: 
+	A user must make use of a unique user name.
+	A user can register an account if they are a staff member.
+	A user who is not a staff member must register through an administrator or Head of department.
+
+	Post-Conditions: 
+	The user information is stored in the database.
+	The user receives the login information.
+	The user is able to login the website.
+	\item[$\bullet$]Login
+	\textbf{Login}
+	A registered user is able to log into the website making use of the features available to them.
+	
+	Pre-Conditions: 
+	A user must have a registered account in order to login.
+	A user must login with the correct user name and password.
+
+	Post-Conditions: 
+	A user has access to certain parts of the website according to their privileges.
+	A user has access to certain functions of the website according to their privileges.
+	\item[$\bullet$]Logout
+	\textbf{Logout}
+	User is able to logout of the web page.
+	
+	Pre-Conditions: 
+	A user must be logged into the web page in order to log out.
+
+	Post-Conditions: 
+	User no longer has privileges of being logged in.
+	\item[$\bullet$]Create publication
+	\item[$\bullet$]Add author
+	\item[$\bullet$]Remove author
+	\item[$\bullet$]Edit publication
+	\item[$\bullet$]View publication
+	\item[$\bullet$]View profile
+	\item[$\bullet$]Edit profile
+	\item[$\bullet$]Generate summary
+	\\
+\end{itemize}
 \subsection{Required functionality}
 	\subsubsection{Registration Use Case Diagram}
 	\includegraphics[width=1\textwidth]{./Registration.jpg}\\[1.5cm]
