@@ -217,7 +217,27 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 	Post-Conditions: 
 	User no longer has privileges of being logged in.
 	\item[$\bullet$]Create publication
+	\textbf{Create publication}
+	A user can create a publication which holds information about the publishing, also authors who contributed.
+
+	Pre-Conditions: 
+	A user must be logged into the web page in order to create a publication.
+	Start and due date must be provided.
+
+	Post-Conditions: 
+	At least one user must be assigned to the publication (Creator or author).
+	Meta-data on the publishing must be stored in some form of database.
 	\item[$\bullet$]Add author
+	\textbf{Add author}
+	Add author - A user can add authors to their publication who have worked or helped with the publication.
+
+	Pre-Conditions: 
+	A user must be logged into the web page in order to add an author.
+	A user must create a publishing before adding another author to the publishing.
+	The user being added must have a registered account with the website.
+
+	Post-Conditions: 
+	Added Author is listed on the publication.
 	\item[$\bullet$]Remove author
 	\item[$\bullet$]Edit publication
 	\item[$\bullet$]View publication
