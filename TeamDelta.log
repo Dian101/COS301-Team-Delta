@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  23 FEB 2016 12:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  23 FEB 2016 12:32
 entering extended mode
 **C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
 (C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
@@ -369,158 +369,193 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--279
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--288
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--293
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--299
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
-<./Registration.jpg, id=185, 888.31876pt x 481.8pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--355
+
+ []
+
+<./Registration.jpg, id=189, 888.31876pt x 481.8pt>
 File: ./Registration.jpg Graphic file (type jpg)
  <use ./Registration.jpg>
-Package pdftex.def Info: ./Registration.jpg used on input line 302.
+Package pdftex.def Info: ./Registration.jpg used on input line 359.
 (pdftex.def)             Requested size: 446.9055pt x 242.38443pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 302--303
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
-[10] <./Login.jpg, id=190, 588.1975pt x 401.5pt>
+[11] <./Login.jpg, id=194, 588.1975pt x 401.5pt>
 File: ./Login.jpg Graphic file (type jpg)
  <use ./Login.jpg>
-Package pdftex.def Info: ./Login.jpg used on input line 305.
+Package pdftex.def Info: ./Login.jpg used on input line 362.
 (pdftex.def)             Requested size: 446.9055pt x 305.05739pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--306
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
-[11 <./Registration.jpg>] <./Logout.jpg, id=195, 596.2275pt x 413.545pt>
+[12 <./Registration.jpg>] <./Logout.jpg, id=200, 596.2275pt x 413.545pt>
 File: ./Logout.jpg Graphic file (type jpg)
 
 <use ./Logout.jpg>
-Package pdftex.def Info: ./Logout.jpg used on input line 308.
+Package pdftex.def Info: ./Logout.jpg used on input line 365.
 (pdftex.def)             Requested size: 446.9055pt x 309.97498pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--309
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
-[12 <./Login.jpg>] <./CreatePublication.jpg, id=201, 584.1825pt x 409.53pt>
+[13 <./Login.jpg>] <./CreatePublication.jpg, id=205, 584.1825pt x 409.53pt>
 File: ./CreatePublication.jpg Graphic file (type jpg)
 
 <use ./CreatePublication.jpg>
-Package pdftex.def Info: ./CreatePublication.jpg used on input line 311.
+Package pdftex.def Info: ./CreatePublication.jpg used on input line 368.
 (pdftex.def)             Requested size: 446.9055pt x 313.30193pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 
  []
 
-[13 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=206, 568.1225pt x 405.515pt>
+[14 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=210, 568.1225pt x 405.515pt>
 File: ./AddRemoveAuthor.jpg Graphic file (type jpg)
 
 <use ./AddRemoveAuthor.jpg>
-Package pdftex.def Info: ./AddRemoveAuthor.jpg used on input line 314.
+Package pdftex.def Info: ./AddRemoveAuthor.jpg used on input line 371.
 (pdftex.def)             Requested size: 446.9055pt x 319.00441pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
-[14 <./CreatePublication.jpg>]
-<./EditPublication.jpg, id=211, 568.1225pt x 407.5225pt>
+[15 <./CreatePublication.jpg>]
+<./EditPublication.jpg, id=215, 568.1225pt x 407.5225pt>
 File: ./EditPublication.jpg Graphic file (type jpg)
 
 <use ./EditPublication.jpg>
-Package pdftex.def Info: ./EditPublication.jpg used on input line 317.
+Package pdftex.def Info: ./EditPublication.jpg used on input line 374.
 (pdftex.def)             Requested size: 446.9055pt x 320.58365pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--318
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 
  []
 
-[15 <./AddRemoveAuthor.jpg>]
-<./ViewPublication.jpg, id=216, 573.14125pt x 402.50375pt>
+[16 <./AddRemoveAuthor.jpg>]
+<./ViewPublication.jpg, id=220, 573.14125pt x 402.50375pt>
 File: ./ViewPublication.jpg Graphic file (type jpg)
 
 <use ./ViewPublication.jpg>
-Package pdftex.def Info: ./ViewPublication.jpg used on input line 320.
+Package pdftex.def Info: ./ViewPublication.jpg used on input line 377.
 (pdftex.def)             Requested size: 446.9055pt x 313.8534pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
-[16 <./EditPublication.jpg>]
-<./ViewProfile.jpg, id=221, 590.205pt x 403.5075pt>
+[17 <./EditPublication.jpg>]
+<./ViewProfile.jpg, id=225, 590.205pt x 403.5075pt>
 File: ./ViewProfile.jpg Graphic file (type jpg)
  <use ./ViewProfile.jpg>
-Package pdftex.def Info: ./ViewProfile.jpg used on input line 323.
+Package pdftex.def Info: ./ViewProfile.jpg used on input line 380.
 (pdftex.def)             Requested size: 446.9055pt x 305.54214pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 323--324
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
-[17 <./ViewPublication.jpg>]
-<./EditProfile.jpg, id=226, 705.63625pt x 414.54875pt>
+[18 <./ViewPublication.jpg>]
+<./EditProfile.jpg, id=231, 705.63625pt x 414.54875pt>
 File: ./EditProfile.jpg Graphic file (type jpg)
  <use ./EditProfile.jpg>
-Package pdftex.def Info: ./EditProfile.jpg used on input line 326.
+Package pdftex.def Info: ./EditProfile.jpg used on input line 383.
 (pdftex.def)             Requested size: 446.9055pt x 262.55237pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--327
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
-[18 <./ViewProfile.jpg>]
-<./GenerateReport.jpg, id=232, 571.13374pt x 417.56pt>
+[19 <./ViewProfile.jpg>]
+<./GenerateReport.jpg, id=236, 571.13374pt x 417.56pt>
 File: ./GenerateReport.jpg Graphic file (type jpg)
 
 <use ./GenerateReport.jpg>
-Package pdftex.def Info: ./GenerateReport.jpg used on input line 329.
+Package pdftex.def Info: ./GenerateReport.jpg used on input line 386.
 (pdftex.def)             Requested size: 446.9055pt x 326.73402pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
 
-[19 <./EditProfile.jpg>] [20 <./GenerateReport.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
- [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
+[20 <./EditProfile.jpg>] [21 <./GenerateReport.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 394.
+ [22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 394.
  (TeamDelta.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 394.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 394.
 Package rerunfilecheck Info: File `TeamDelta.out' has not changed.
 (rerunfilecheck)             Checksum: 041ED9AAF43DA0091B7830C651B9E1EB;2066.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 337.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 394.
  ) 
 Here is how much of TeX's memory you used:
- 5137 strings out of 493634
- 77713 string characters out of 3134423
+ 5138 strings out of 493634
+ 77720 string characters out of 3134423
  160183 words of memory out of 3000000
  8445 multiletter control sequences out of 15000+200000
  10005 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,5n,28p,709b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,28p,709b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Kinwifu/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TeamDelta.pdf (22 pages, 566996 bytes).
+Output written on TeamDelta.pdf (23 pages, 568257 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
  272 words of extra memory for PDF output out of 10000 (max. 10000000)
 
