@@ -123,6 +123,60 @@ For clients who access the system's services via a web interface can use any of 
 Restful web services clients will interact with our system via its RESTful api that makes use of the http request to obtain data from other systems over the internet.
 \end{flushleft}
 \subsection{Quality Requirements}
+Quality not only refers to how many clients’ requirements the product fulfils. It also refers to how much effort is put into a product to satisfy the consumers’ needs and wants compared to other similar product. The aim however is to fulfil, at the least, every need over the wants of the client.
+ \begin{itemize}
+ 	\item[$\bullet$]Performance: 
+	 \begin{itemize}
+		 \item[$\bullet$]Program should be designed to be run as efficient as possible.
+		 \item[$\bullet$]Execution time should be reduced by avoiding unnecessary comparisons and recursive function calls
+		 \item[$\bullet$]Database queries should be optimised by avoiding needless joins and using stored procedures
+	 \end{itemize}
+ 	\item[$\bullet$]Reliability:  
+	 \begin{itemize}
+	 	\item[$\bullet$]Information stored in the database should remain correct when being transported from the system front-end.
+	 	\item[$\bullet$]System should always be available for use unless the system is intentional shut down  for maintenance
+	 \end{itemize}
+ 	\item[$\bullet$]Scalability: 
+ 	 \begin{itemize}
+ 	 		\item[$\bullet$]System needs to be handle growth in terms of the number of users by: 
+ 		\begin{itemize}
+ 			\item[$\bullet$]Managing activities running concurrently
+	 		\item[$\bullet$]Storing information in lightweight format to save storage space
+		 \end{itemize}
+	 \end{itemize}
+ 	\item[$\bullet$]Security:
+ 	\begin{itemize}
+ 		\item[$\bullet$]The application should maintain permissions for access and modification of information for the different user groups.
+	 	\item[$\bullet$]Also proper authentication protocols should be implemented for every user group to prevent unauthorised users access at any user group.
+	 \end{itemize}
+ 	\item[$\bullet$]Flexibility: 
+  	\begin{itemize}
+  		\item[$\bullet$]There should be provisions for the addition of new user groups and the modification of existing ones.
+	 	\item[$\bullet$]It should be possible to add new groups of data without rebuilding the system
+	 	\item[$\bullet$]Provision for the modification of data types 
+	 \end{itemize}
+	 \item[$\bullet$]Maintainability: 
+  	\begin{itemize}
+	 	\item[$\bullet$]Loose coupling should be encouraged, creating pieces that can be repaired without making huge modification to other parts of the system. 
+	 \end{itemize}
+ 		 \item[$\bullet$]Auditability:
+  	\begin{itemize}
+  		\item[$\bullet$]Modifications on database transactions should be stored and logged
+	 	\item[$\bullet$]Information of when and where users access the system should be logged
+	 \end{itemize}
+ 	\item[$\bullet$]Integrability:
+  	\begin{itemize}
+	  	\item[$\bullet$]Program should follow the coding standards specified by the client
+	 \end{itemize}
+ 	\item[$\bullet$]Usability:
+  	\begin{itemize}
+ 		\item[$\bullet$]System should have options grouped in logical manner
+	 	\item[$\bullet$]Help hints should be available for more advanced  procedures in the program
+	 	\item[$\bullet$]Where information should be entered in a specific format an example of it should be displayed to the user
+ 	\item[$\bullet$]Manual should have a detailed description of all the functionality in the program
+	 \end{itemize}
+ 	 \end{itemize}
+
 \subsection{Integration Requirements}
 Integration involves merging various subsystems into a single cohesive system. With regard to this project the subsystems may consist the application being developed as well as database management systems.
 
