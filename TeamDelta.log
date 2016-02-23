@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.22)  23 FEB 2016 14:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.22)  23 FEB 2016 14:32
 entering extended mode
 **./TeamDelta.tex
 (TeamDelta.tex
@@ -523,12 +523,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 386--387
 
  []
 
-[20 <./EditProfile.jpg>] <./Domain.jpg, id=241, 703.62875pt x 606.265pt>
+[20 <./EditProfile.jpg>] <./Domain.jpg, id=241, 828.09375pt x 530.98375pt>
 File: ./Domain.jpg Graphic file (type jpg)
 
 <use ./Domain.jpg>
 Package pdftex.def Info: ./Domain.jpg used on input line 390.
-(pdftex.def)             Requested size: 446.9055pt x 385.0665pt.
+(pdftex.def)             Requested size: 446.9055pt x 286.5649pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
@@ -558,7 +558,7 @@ cm/cmbx12.pfb><C:/Users/Dirk/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmcsc10.pfb><C:/Users/Dirk/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dirk/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TeamDelta.pdf (24 pages, 639912 bytes).
+Output written on TeamDelta.pdf (24 pages, 643088 bytes).
 PDF statistics:
  282 PDF objects out of 1000 (max. 8388607)
  52 named destinations out of 1000 (max. 500000)
