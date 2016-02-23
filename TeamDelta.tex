@@ -281,6 +281,7 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 
 	A user can change the details of their created publications.
 
+	\textbf{Pre-Conditions:}
 	\begin{itemize}
 		\item[$\bullet$]A user must be logged into the web page in order to edit a publication.
 		\item[$\bullet$]A user can only edit their own publications.
@@ -291,11 +292,67 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Changes made to the publication meta-data is changed on the data on the web server.
 		\\
 	\end{itemize}
-	\item[$\bullet$]View publication
-	\item[$\bullet$]View profile
-	\item[$\bullet$]Edit profile
-	\item[$\bullet$]Generate summary
-	\\
+	\item[$\bullet$]\textbf{View publication}
+
+	A user can view publications they are working on.
+
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to view a publication.
+		\item[$\bullet$]A user can only view publications they are directly involved in.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]Information is correctly diplayed to the user.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{View profile}
+
+	User can view their own and other user profiles.
+
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to view a profile.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]A user will view and have access to edit their profile.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Edit profile}
+
+	User can edit their own user profiles..
+
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to edit their profile.
+		\item[$\bullet$]A user can only edit their own profile.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]Any changes made to their profile will take effect.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Generate summary}
+
+	Certain users/members can generate information on the publications.
+
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to generate a summary on certain publications.
+		\item[$\bullet$]A user can only generate a summary on publications they are involved in.
+		\item[$\bullet$]Head of department can generate summary on all publications..
+		\item[$\bullet$]Research leaders can generate summaries on fields of research.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]Information displayed of selected publications must be accurate.
+		\\
+	\end{itemize}
 \end{itemize}
 \subsection{Required functionality}
 	\subsubsection{Registration Use Case Diagram}

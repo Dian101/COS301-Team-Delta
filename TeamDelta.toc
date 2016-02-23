@@ -11,17 +11,17 @@
 \contentsline {section}{\numberline {5}Functional Requirements and Application Design}{8}{section.5}
 \contentsline {subsection}{\numberline {5.1}Use Case Prioritisation}{8}{subsection.5.1}
 \contentsline {subsection}{\numberline {5.2}Use Case/Services Contracts}{8}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Required functionality}{11}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}Registration Use Case Diagram}{11}{subsubsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.2}Login Use Case Diagram}{12}{subsubsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.3}Logout Use Case Diagram}{13}{subsubsection.5.3.3}
-\contentsline {subsubsection}{\numberline {5.3.4}Create Publication Use Case Diagram}{14}{subsubsection.5.3.4}
-\contentsline {subsubsection}{\numberline {5.3.5}Add/Remove Author Use Case Diagram}{15}{subsubsection.5.3.5}
-\contentsline {subsubsection}{\numberline {5.3.6}Edit Publication Use Case Diagram}{16}{subsubsection.5.3.6}
-\contentsline {subsubsection}{\numberline {5.3.7}View Publication Use Case Diagram}{17}{subsubsection.5.3.7}
-\contentsline {subsubsection}{\numberline {5.3.8}View Profile Use Case Diagram}{18}{subsubsection.5.3.8}
-\contentsline {subsubsection}{\numberline {5.3.9}Edit Profile Use Case Diagram}{19}{subsubsection.5.3.9}
-\contentsline {subsubsection}{\numberline {5.3.10}Generate Report Use Case Diagram}{20}{subsubsection.5.3.10}
-\contentsline {subsection}{\numberline {5.4}Process specifications}{21}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Domain Model}{21}{subsection.5.5}
-\contentsline {section}{\numberline {6}References}{22}{section.6}
+\contentsline {subsection}{\numberline {5.3}Required functionality}{12}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Registration Use Case Diagram}{12}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Login Use Case Diagram}{13}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Logout Use Case Diagram}{14}{subsubsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.4}Create Publication Use Case Diagram}{15}{subsubsection.5.3.4}
+\contentsline {subsubsection}{\numberline {5.3.5}Add/Remove Author Use Case Diagram}{16}{subsubsection.5.3.5}
+\contentsline {subsubsection}{\numberline {5.3.6}Edit Publication Use Case Diagram}{17}{subsubsection.5.3.6}
+\contentsline {subsubsection}{\numberline {5.3.7}View Publication Use Case Diagram}{18}{subsubsection.5.3.7}
+\contentsline {subsubsection}{\numberline {5.3.8}View Profile Use Case Diagram}{19}{subsubsection.5.3.8}
+\contentsline {subsubsection}{\numberline {5.3.9}Edit Profile Use Case Diagram}{20}{subsubsection.5.3.9}
+\contentsline {subsubsection}{\numberline {5.3.10}Generate Report Use Case Diagram}{21}{subsubsection.5.3.10}
+\contentsline {subsection}{\numberline {5.4}Process specifications}{22}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Domain Model}{22}{subsection.5.5}
+\contentsline {section}{\numberline {6}References}{23}{section.6}
