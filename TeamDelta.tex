@@ -167,25 +167,14 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 \newpage
 \section{Functional Requirements and Application Design}
 \subsection{Use Case Prioritisation}
-\begin{itemize}
-	\item[$\bullet$]Registration
-	\item[$\bullet$]Login
-	\item[$\bullet$]Logout
-	\item[$\bullet$]Create publication
-	\item[$\bullet$]Add author
-	\item[$\bullet$]Remove author
-	\item[$\bullet$]Edit publication
-	\item[$\bullet$]View publication
-	\item[$\bullet$]View profile
-	\item[$\bullet$]Edit profile
-	\item[$\bullet$]Generate summary
-	\\
-\end{itemize}
+The Use Case Prioritisation is specified for each use case listed under the next section: "Use Case/Services Contracts".
 \subsection{Use Case/Services Contracts}
 \begin{itemize}
-	\item[$\bullet$]\textbf{Registration}
+	\item[$\bullet$]\textbf{Registration}\newline
 
-	A user is able to register an account on the publishing website to gain access to more features on the site.
+	\textbf{Description:} A user is able to register an account on the publishing website.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -201,9 +190,12 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]The user is able to login the website.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Login}
+	\newpage
+	\item[$\bullet$]\textbf{Login}\newline
 
-	A registered user is able to log into the website making use of the features available to them.
+	\textbf{Description:} A registered user is able to log into the website making use of the features available to them.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 	
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -217,9 +209,11 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]A user has access to certain functions of the website according to their privileges.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Logout}
+	\item[$\bullet$]\textbf{Logout}\newline
 
-	User is able to logout of the web page.
+	\textbf{Description:} User is able to logout of the web page.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -231,9 +225,12 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]User no longer has privileges of being logged in.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Create publication}
+	\newpage
+	\item[$\bullet$]\textbf{Create publication}\newline
 
-	A user can create a publication which holds information about the publishing, also authors who contributed.
+	\textbf{Description:} A user can create a publication which holds information about the publishing, also authors who contributed.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -246,9 +243,11 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Meta-data on the publishing must be stored in some form of database.).
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Add author}
+	\item[$\bullet$]\textbf{Add author}\newline
 
-	Add author - A user can add authors to their publication who have worked or helped with the publication.
+	\textbf{Description:} Add author - A user can add authors to their publication who have worked or helped with the publication.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -262,9 +261,12 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Added Author is listed on the publication.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Remove author}
+	\newpage
+	\item[$\bullet$]\textbf{Remove author}\newline
 
-	 A user can remove authors from their created publications.
+	\textbf{Description:} A user can remove authors from their created publications.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -277,9 +279,11 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Author deleted is removed from the list of authors on the publication.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Edit publication}
+	\item[$\bullet$]\textbf{Edit publication}\newline
 
-	A user can change the details of their created publications.
+	\textbf{Description:} A user can change the details of their created publications.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -292,9 +296,13 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Changes made to the publication meta-data is changed on the data on the web server.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{View publication}
 
-	A user can view publications they are working on.
+	\newpage
+	\item[$\bullet$]\textbf{View publication}\newline
+
+	\textbf{Description:} A user can view publications they are working on.\newline
+	
+	\textbf{Use Case Prioritisation:} Critical\newline	
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -307,9 +315,11 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Information is correctly diplayed to the user.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{View profile}
+	\item[$\bullet$]\textbf{View profile}\newline
 
-	User can view their own and other user profiles.
+	\textbf{Description:} User can view their own and other user profiles.\newline
+	
+	\textbf{Use Case Prioritisation:} Important\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -321,9 +331,11 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]A user will view and have access to edit their profile.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Edit profile}
+	\item[$\bullet$]\textbf{Edit profile}\newline
 
-	User can edit their own user profiles..
+	\textbf{Description:} User can edit their own user profiles.\newline
+	
+	\textbf{Use Case Prioritisation:} Important\newline	
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
@@ -336,9 +348,13 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 		\item[$\bullet$]Any changes made to their profile will take effect.
 		\\
 	\end{itemize}
-	\item[$\bullet$]\textbf{Generate summary}
 
-	Certain users/members can generate information on the publications.
+	\newpage
+	\item[$\bullet$]\textbf{Generate summary}\newline
+
+	\textbf{Description:} Certain users/members can generate information on the publications.\newline
+	
+	\textbf{Use Case Prioritisation:} Nice-To-Have\newline
 
 	\textbf{Pre-Conditions:}
 	\begin{itemize}
