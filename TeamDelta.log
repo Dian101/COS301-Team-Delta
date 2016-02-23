@@ -1,0 +1,526 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  23 FEB 2016 12:18
+entering extended mode
+**C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
+(C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@indexfile=\write3
+\openout3 = `TeamDelta.idx'.
+
+
+Writing index file TeamDelta.idx
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+x.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+s.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
+y"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphic
+s.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdfte
+x.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty
+"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperre
+f.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
+b-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
+b-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
+x.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook
+.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.
+def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperre
+f.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen106
+\Fld@menulength=\count92
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex
+.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfi
+lecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
+ (TeamDelta.aux)
+\openout1 = `TeamDelta.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
+mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen109
+\scratchbox=\box26
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen110
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks16
+)
+\AtBeginShipoutBox=\box27
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.s
+ty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.c
+fg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+)
+Package hyperref Info: Link coloring ON on input line 23.
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
+.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\getti
+tlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count104
+)
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
+ (TeamDelta.out) (TeamDelta.out)
+\@outlinefile=\write4
+\openout4 = `TeamDelta.out'.
+
+
+<./up-logo.jpg, id=111, 317.185pt x 86.3225pt>
+File: ./up-logo.jpg Graphic file (type jpg)
+ <use ./up-logo.jpg>
+Package pdftex.def Info: ./up-logo.jpg used on input line 29.
+(pdftex.def)             Requested size: 446.9055pt x 121.63567pt.
+
+Overfull \hbox (3.0945pt too wide) in paragraph at lines 33--33
+ []| 
+ []
+
+
+Overfull \hbox (3.0945pt too wide) in paragraph at lines 35--35
+ []| 
+ []
+
+[1
+
+{C:/Users/Kinwifu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./up-logo
+.jpg>] (TeamDelta.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+)
+\tf@toc=\write5
+\openout5 = `TeamDelta.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.62 \newpage
+              [1] [2] [3] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
+
+ []
+
+<./Registration.jpg, id=185, 888.31876pt x 481.8pt>
+File: ./Registration.jpg Graphic file (type jpg)
+ <use ./Registration.jpg>
+Package pdftex.def Info: ./Registration.jpg used on input line 302.
+(pdftex.def)             Requested size: 446.9055pt x 242.38443pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+[10] <./Login.jpg, id=190, 588.1975pt x 401.5pt>
+File: ./Login.jpg Graphic file (type jpg)
+ <use ./Login.jpg>
+Package pdftex.def Info: ./Login.jpg used on input line 305.
+(pdftex.def)             Requested size: 446.9055pt x 305.05739pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+[11 <./Registration.jpg>] <./Logout.jpg, id=195, 596.2275pt x 413.545pt>
+File: ./Logout.jpg Graphic file (type jpg)
+
+<use ./Logout.jpg>
+Package pdftex.def Info: ./Logout.jpg used on input line 308.
+(pdftex.def)             Requested size: 446.9055pt x 309.97498pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+[12 <./Login.jpg>] <./CreatePublication.jpg, id=201, 584.1825pt x 409.53pt>
+File: ./CreatePublication.jpg Graphic file (type jpg)
+
+<use ./CreatePublication.jpg>
+Package pdftex.def Info: ./CreatePublication.jpg used on input line 311.
+(pdftex.def)             Requested size: 446.9055pt x 313.30193pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+[13 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=206, 568.1225pt x 405.515pt>
+File: ./AddRemoveAuthor.jpg Graphic file (type jpg)
+
+<use ./AddRemoveAuthor.jpg>
+Package pdftex.def Info: ./AddRemoveAuthor.jpg used on input line 314.
+(pdftex.def)             Requested size: 446.9055pt x 319.00441pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+[14 <./CreatePublication.jpg>]
+<./EditPublication.jpg, id=211, 568.1225pt x 407.5225pt>
+File: ./EditPublication.jpg Graphic file (type jpg)
+
+<use ./EditPublication.jpg>
+Package pdftex.def Info: ./EditPublication.jpg used on input line 317.
+(pdftex.def)             Requested size: 446.9055pt x 320.58365pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+[15 <./AddRemoveAuthor.jpg>]
+<./ViewPublication.jpg, id=216, 573.14125pt x 402.50375pt>
+File: ./ViewPublication.jpg Graphic file (type jpg)
+
+<use ./ViewPublication.jpg>
+Package pdftex.def Info: ./ViewPublication.jpg used on input line 320.
+(pdftex.def)             Requested size: 446.9055pt x 313.8534pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+[16 <./EditPublication.jpg>]
+<./ViewProfile.jpg, id=221, 590.205pt x 403.5075pt>
+File: ./ViewProfile.jpg Graphic file (type jpg)
+ <use ./ViewProfile.jpg>
+Package pdftex.def Info: ./ViewProfile.jpg used on input line 323.
+(pdftex.def)             Requested size: 446.9055pt x 305.54214pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+[17 <./ViewPublication.jpg>]
+<./EditProfile.jpg, id=226, 705.63625pt x 414.54875pt>
+File: ./EditProfile.jpg Graphic file (type jpg)
+ <use ./EditProfile.jpg>
+Package pdftex.def Info: ./EditProfile.jpg used on input line 326.
+(pdftex.def)             Requested size: 446.9055pt x 262.55237pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+[18 <./ViewProfile.jpg>]
+<./GenerateReport.jpg, id=232, 571.13374pt x 417.56pt>
+File: ./GenerateReport.jpg Graphic file (type jpg)
+
+<use ./GenerateReport.jpg>
+Package pdftex.def Info: ./GenerateReport.jpg used on input line 329.
+(pdftex.def)             Requested size: 446.9055pt x 326.73402pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+[19 <./EditProfile.jpg>] [20 <./GenerateReport.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
+ [21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
+ (TeamDelta.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 337.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 337.
+Package rerunfilecheck Info: File `TeamDelta.out' has not changed.
+(rerunfilecheck)             Checksum: 041ED9AAF43DA0091B7830C651B9E1EB;2066.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 337.
+ ) 
+Here is how much of TeX's memory you used:
+ 5137 strings out of 493634
+ 77713 string characters out of 3134423
+ 160183 words of memory out of 3000000
+ 8445 multiletter control sequences out of 15000+200000
+ 10005 words of font info for 35 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 29i,5n,28p,709b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Kinwifu/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TeamDelta.pdf (22 pages, 566996 bytes).
+PDF statistics:
+ 273 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+

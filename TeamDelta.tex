@@ -183,81 +183,114 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 \end{itemize}
 \subsection{Use Case/Services Contracts}
 \begin{itemize}
-	\item[$\bullet$]Registration
-	\textbf{Registration}
+	\item[$\bullet$]\textbf{Registration}
+
 	A user is able to register an account on the publishing website to gain access to more features on the site.
 
-	Pre-Conditions: 
-	A user must make use of a unique user name.
-	A user can register an account if they are a staff member.
-	A user who is not a staff member must register through an administrator or Head of department.
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must make use of a unique user name.
+		\item[$\bullet$]A user can register an account if they are a staff member.
+		\item[$\bullet$]A user who is not a staff member must register through an administrator or Head of department.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]The user information is stored in the database.
+		\item[$\bullet$]The user receives the login information.
+		\item[$\bullet$]The user is able to login the website.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Login}
 
-	Post-Conditions: 
-	The user information is stored in the database.
-	The user receives the login information.
-	The user is able to login the website.
-	\item[$\bullet$]Login
-	\textbf{Login}
 	A registered user is able to log into the website making use of the features available to them.
 	
-	Pre-Conditions: 
-	A user must have a registered account in order to login.
-	A user must login with the correct user name and password.
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must have a registered account in order to login.
+		\item[$\bullet$]A user must login with the correct user name and password.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]A user has access to certain parts of the website according to their privileges.
+		\item[$\bullet$]A user has access to certain functions of the website according to their privileges.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Logout}
 
-	Post-Conditions: 
-	A user has access to certain parts of the website according to their privileges.
-	A user has access to certain functions of the website according to their privileges.
-	\item[$\bullet$]Logout
-	\textbf{Logout}
 	User is able to logout of the web page.
-	
-	Pre-Conditions: 
-	A user must be logged into the web page in order to log out.
 
-	Post-Conditions: 
-	User no longer has privileges of being logged in.
-	\item[$\bullet$]Create publication
-	\textbf{Create publication}
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to log out.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]User no longer has privileges of being logged in.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Create publication}
+
 	A user can create a publication which holds information about the publishing, also authors who contributed.
 
-	Pre-Conditions: 
-	A user must be logged into the web page in order to create a publication.
-	Start and due date must be provided.
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to create a publication.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]At least one user must be assigned to the publication (Creator or author).
+		\item[$\bullet$]Meta-data on the publishing must be stored in some form of database.).
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Add author}
 
-	Post-Conditions: 
-	At least one user must be assigned to the publication (Creator or author).
-	Meta-data on the publishing must be stored in some form of database.
-	\item[$\bullet$]Add author
-	\textbf{Add author}
 	Add author - A user can add authors to their publication who have worked or helped with the publication.
 
-	Pre-Conditions: 
-	A user must be logged into the web page in order to add an author.
-	A user must create a publishing before adding another author to the publishing.
-	The user being added must have a registered account with the website.
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to add an author.
+		\item[$\bullet$]A user must create a publishing before adding another author to the publishing.
+		\item[$\bullet$]The user being added must have a registered account with the website.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]Added Author is listed on the publication.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Remove author}
 
-	Post-Conditions: 
-	Added Author is listed on the publication.
-	\item[$\bullet$]Remove author
-	\textbf{Remove author}
 	 A user can remove authors from their created publications.
 
-	Pre-Conditions: 
-	A user must be logged into the web page in order to delete an author.
-	A user can only delete authors they have added.
+	\textbf{Pre-Conditions:}
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to delete an author.
+		\item[$\bullet$]A user can only delete authors they have added.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]Author deleted is removed from the list of authors on the publication.
+		\\
+	\end{itemize}
+	\item[$\bullet$]\textbf{Edit publication}
 
-	Post-Conditions: 
-	Author deleted is removed from the list of authors on the publication.
-	\item[$\bullet$]Edit publication
-	\textbf{Edit publication}
 	A user can change the details of their created publications.
 
-	Pre-Conditions: 
-	A user must be logged into the web page in order to edit a publication.
-	A user can only edit their own publications.
-
-	Post-Conditions: 
-	Changes made to the publication meta-data is changed on the data on the web server.
+	\begin{itemize}
+		\item[$\bullet$]A user must be logged into the web page in order to edit a publication.
+		\item[$\bullet$]A user can only edit their own publications.
+		\\
+	\end{itemize}
+	\textbf{Post-Conditions: }
+	\begin{itemize}
+		\item[$\bullet$]Changes made to the publication meta-data is changed on the data on the web server.
+		\\
+	\end{itemize}
 	\item[$\bullet$]View publication
 	\item[$\bullet$]View profile
 	\item[$\bullet$]Edit profile
