@@ -19,6 +19,9 @@
 \contentsline {subsubsection}{\numberline {5.3.5}Add/Remove Author Use Case Diagram}{12}{subsubsection.5.3.5}
 \contentsline {subsubsection}{\numberline {5.3.6}Edit Publication Use Case Diagram}{13}{subsubsection.5.3.6}
 \contentsline {subsubsection}{\numberline {5.3.7}View Publication Use Case Diagram}{14}{subsubsection.5.3.7}
-\contentsline {subsection}{\numberline {5.4}Process specifications}{14}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Domain Model}{14}{subsection.5.5}
-\contentsline {section}{\numberline {6}References}{15}{section.6}
+\contentsline {subsubsection}{\numberline {5.3.8}View Profile Use Case Diagram}{15}{subsubsection.5.3.8}
+\contentsline {subsubsection}{\numberline {5.3.9}Edit Profile Use Case Diagram}{16}{subsubsection.5.3.9}
+\contentsline {subsubsection}{\numberline {5.3.10}Generate Report Use Case Diagram}{17}{subsubsection.5.3.10}
+\contentsline {subsection}{\numberline {5.4}Process specifications}{17}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Domain Model}{17}{subsection.5.5}
+\contentsline {section}{\numberline {6}References}{18}{section.6}
