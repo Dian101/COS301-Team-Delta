@@ -5,11 +5,13 @@
 \BOOKMARK [2][-]{subsection.4.1}{Access Channel Requirements}{section.4}% 5
 \BOOKMARK [2][-]{subsection.4.2}{Quality Requirements}{section.4}% 6
 \BOOKMARK [2][-]{subsection.4.3}{Integration Requirements}{section.4}% 7
-\BOOKMARK [2][-]{subsection.4.4}{Architecture Constraints}{section.4}% 8
-\BOOKMARK [1][-]{section.5}{Functional Requirements and Application Design}{}% 9
-\BOOKMARK [2][-]{subsection.5.1}{Use Case Prioritisation}{section.5}% 10
-\BOOKMARK [2][-]{subsection.5.2}{Use Case/Services Contracts}{section.5}% 11
-\BOOKMARK [2][-]{subsection.5.3}{Required functionality}{section.5}% 12
-\BOOKMARK [2][-]{subsection.5.4}{Process specifications}{section.5}% 13
-\BOOKMARK [2][-]{subsection.5.5}{Domain Model}{section.5}% 14
-\BOOKMARK [1][-]{section.6}{References}{}% 15
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Integration Channels}{subsection.4.3}% 8
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Quality Requirements Integration}{subsection.4.3}% 9
+\BOOKMARK [2][-]{subsection.4.4}{Architecture Constraints}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Functional Requirements and Application Design}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Use Case Prioritisation}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Use Case/Services Contracts}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Required functionality}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.4}{Process specifications}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.5}{Domain Model}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{References}{}% 17

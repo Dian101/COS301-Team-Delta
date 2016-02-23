@@ -95,19 +95,33 @@ The above problem is what is currently hindering research efforts within the Dep
 \subsection{Access Channel Requirements}
 \subsection{Quality Requirements}
 \subsection{Integration Requirements}
-In order to successfully and safely integrate this sytem  with other systems it needs to be directly linked to another webpage. This can be achieved by the use of a portal window that runs a script which can fetch and display the page hosting this system directly. Recommended modules to use are:
+Integration involves merging various subsystems into a single cohesive system. With regard to this project the subsystems may consist the application being developed as well as database management systems.
+
+In order to successfully and safely integrate these subsystems they need to be directly and securely linked to one another. This can be easily achieve by creating a secure connection through the application to the database management system. 
+
+The system itself will need to be integrated on two seperate platforms, namely a website and mobile application. In the case of the website it may be desirable to display certain content dynamically as opposed to reloading a new page for each item.
+
+\subsubsection{Integration Channels}
+It is recommended that the following be used to successfully achieve the aforementioned integration:
+\begin{itemize}
+	\item[$\bullet$]PHP: Hypertext Preprocessor
+\end{itemize}
+In order to achieve this dynamic display the following technologies will be used:
  \begin{itemize}
 	\item[$\bullet$]AJAX
 	\item[$\bullet$]JSON
-	\\
 \end{itemize}
-On integration, the sytem needs only to offer its core services in order to minimize faults and due to platform compability. However these functionalities should be kept in mind:
+
+\subsubsection{Quality Requirements Integration}
+Systems consist of both functional, what a system has to do, and non-functional requirements, how a system needs to behave. In other words non-functional requirements refers to qualitative attributes of a system. The following quality requirements will need to be integrated into the system:
 \begin{itemize}
-	\item[$\bullet$]Low resource consumption(Mobile use)
-	\item[$\bullet$]Good performance
-	\item[$\bullet$]Reliable integration
-	\item[$\bullet$]Safety during use as an integrated service
-	\\
+	\item[$\bullet$]\textbf{Low resource consumption(Mobile use): } the user should be kept in mind when developing the system, to ensure that no unnecessary resources are used.
+	\item[$\bullet$]\textbf{Good performance: }The system must achieve what it is designed to do in as little time as possible.
+	\item[$\bullet$]\textbf{Reliability: }The system needs to be stable and provide the user with access at all times.
+	\item[$\bullet$]\textbf{Security: }The materials hosted on the system as well as the user accounts needs to be protected at all times from unauthorised users.
+	\item[$\bullet$]\textbf{Safety: }Integrity of the data hosted on the system needs to be assured.
+	\item[$\bullet$]\textbf{Scalability: }The system needs to accommodate growth.
+	\item[$\bullet$]\textbf{Flexibility: }The system needs to be easily adaptable to change should the client require additional functionality for example.
 \end{itemize}
 
 \subsection{Architecture Constraints}
