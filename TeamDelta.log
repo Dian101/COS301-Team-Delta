@@ -1,13 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  25 FEB 2016 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.23)  26 FEB 2016 00:10
 entering extended mode
-**C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
-(C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
+**./TeamDelta.tex
+(TeamDelta.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
-"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -28,39 +27,39 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 
 Writing index file TeamDelta.idx
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-x.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx
+.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
-sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-s.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics
+.sty"
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
-y"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphic
-s.cfg"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics
+.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdfte
-x.def"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex
+.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
-rerr.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwar
+err.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
-ds.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmd
+s.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -68,21 +67,20 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty
-"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperre
-f.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-hyperref.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-generic.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -123,30 +121,30 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
-x.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook
-.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
-ns.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+s.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count88
 \Hy@pagecounter=\count89
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.
-def"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+ef"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count90
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperre
-f.cfg"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -157,8 +155,7 @@ Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count91
-
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+ ("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -184,14 +181,14 @@ LaTeX Info: Redefining \pageref on input line 6369.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex
-.def"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count96
 \c@bookmark@seq@number=\count97
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfi
-lecheck.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+echeck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -217,8 +214,8 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
-mkii"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count98
 \scratchdimen=\dimen109
@@ -234,24 +231,24 @@ mkii"
 )
 \AtBeginShipoutBox=\box27
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.s
-ty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+y"
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.c
-fg"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cf
+g"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
 Package hyperref Info: Link coloring ON on input line 23.
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
-.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\getti
-tlestring.sty"
+("C:\Users\Daniel\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+lestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count104
@@ -264,7 +261,7 @@ LaTeX Info: Redefining \nameref on input line 23.
 \openout4 = `TeamDelta.out'.
 
 
-<./up-logo.jpg, id=119, 317.185pt x 86.3225pt>
+<./up-logo.jpg, id=163, 317.185pt x 86.3225pt>
 File: ./up-logo.jpg Graphic file (type jpg)
  <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 29.
@@ -281,36 +278,37 @@ Overfull \hbox (3.0945pt too wide) in paragraph at lines 35--35
 
 [1
 
-{C:/Users/Kinwifu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./up-logo
-.jpg>] (TeamDelta.toc
+{C:/Users/Daniel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./up-logo.
+jpg>] (TeamDelta.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 5.
-)
-\tf@toc=\write5
-\openout5 = `TeamDelta.toc'.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.62 \newpage
-              [1] [2] [3] [4]
+l.32 ...Activity Diagram}{28}{subsubsection.5.4.5}
+                                                   [1])
+\tf@toc=\write5
+\openout5 = `TeamDelta.toc'.
+
+ [2] [3] [4] [5]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [5] [6] [7]
+
+[6] [7] [8]
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-[8]
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 228--229
 
  []
@@ -335,7 +333,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--247
 
  []
 
-[9]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
@@ -385,7 +383,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--282
 
  []
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 284--285
 
  []
@@ -435,7 +433,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
-[11]
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
@@ -485,7 +483,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 351--353
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
@@ -560,7 +558,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 403--405
 
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 408--409
 
  []
@@ -585,7 +583,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 424--426
 
  []
 
-<./Registration.jpg, id=212, 888.31876pt x 481.8pt>
+<./Registration.jpg, id=271, 888.31876pt x 481.8pt>
 File: ./Registration.jpg Graphic file (type jpg)
  <use ./Registration.jpg>
 Package pdftex.def Info: ./Registration.jpg used on input line 431.
@@ -595,7 +593,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
-[14 <./Registration.jpg>] <./Login.jpg, id=217, 588.1975pt x 401.5pt>
+[15 <./Registration.jpg>] <./Login.jpg, id=276, 588.1975pt x 401.5pt>
 File: ./Login.jpg Graphic file (type jpg)
 
 <use ./Login.jpg>
@@ -606,7 +604,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 434--435
 
  []
 
-<./Logout.jpg, id=218, 596.2275pt x 413.545pt>
+<./Logout.jpg, id=277, 596.2275pt x 413.545pt>
 File: ./Logout.jpg Graphic file (type jpg)
  <use ./Logout.jpg>
 Package pdftex.def Info: ./Logout.jpg used on input line 437.
@@ -616,7 +614,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 437--438
 
  []
 
-[15 <./Login.jpg>] <./CreatePublication.jpg, id=223, 584.1825pt x 409.53pt>
+[16 <./Login.jpg>] <./CreatePublication.jpg, id=282, 584.1825pt x 409.53pt>
 File: ./CreatePublication.jpg Graphic file (type jpg)
 
 <use ./CreatePublication.jpg>
@@ -627,7 +625,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
-[16 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=228, 568.1225pt x 405.515pt>
+[17 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=287, 568.1225pt x 405.515pt>
 File: ./AddRemoveAuthor.jpg Graphic file (type jpg)
 
 <use ./AddRemoveAuthor.jpg>
@@ -638,8 +636,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
 
-[17 <./CreatePublication.jpg>]
-<./EditPublication.jpg, id=233, 568.1225pt x 407.5225pt>
+[18 <./CreatePublication.jpg>]
+<./EditPublication.jpg, id=293, 568.1225pt x 407.5225pt>
 File: ./EditPublication.jpg Graphic file (type jpg)
 
 <use ./EditPublication.jpg>
@@ -650,8 +648,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
-[18 <./AddRemoveAuthor.jpg>]
-<./ViewPublication.jpg, id=239, 573.14125pt x 402.50375pt>
+[19 <./AddRemoveAuthor.jpg>]
+<./ViewPublication.jpg, id=298, 573.14125pt x 402.50375pt>
 File: ./ViewPublication.jpg Graphic file (type jpg)
 
 <use ./ViewPublication.jpg>
@@ -662,8 +660,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
-[19 <./EditPublication.jpg>]
-<./ViewProfile.jpg, id=244, 590.205pt x 403.5075pt>
+[20 <./EditPublication.jpg>]
+<./ViewProfile.jpg, id=303, 590.205pt x 403.5075pt>
 File: ./ViewProfile.jpg Graphic file (type jpg)
  <use ./ViewProfile.jpg>
 Package pdftex.def Info: ./ViewProfile.jpg used on input line 452.
@@ -673,8 +671,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
  []
 
-[20 <./ViewPublication.jpg>]
-<./EditProfile.jpg, id=249, 705.63625pt x 414.54875pt>
+[21 <./ViewPublication.jpg>]
+<./EditProfile.jpg, id=308, 705.63625pt x 414.54875pt>
 File: ./EditProfile.jpg Graphic file (type jpg)
  <use ./EditProfile.jpg>
 Package pdftex.def Info: ./EditProfile.jpg used on input line 455.
@@ -684,8 +682,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 455--456
 
  []
 
-[21 <./ViewProfile.jpg>]
-<./GenerateReport.jpg, id=254, 571.13374pt x 417.56pt>
+[22 <./ViewProfile.jpg>]
+<./GenerateReport.jpg, id=313, 571.13374pt x 417.56pt>
 File: ./GenerateReport.jpg Graphic file (type jpg)
 
 <use ./GenerateReport.jpg>
@@ -696,44 +694,175 @@ Underfull \hbox (badness 10000) in paragraph at lines 458--459
 
  []
 
-[22 <./EditProfile.jpg>] <./Domain.jpg, id=259, 828.09375pt x 530.98375pt>
-File: ./Domain.jpg Graphic file (type jpg)
+[23 <./EditProfile.jpg>]
+<./Activity_Register.jpg, id=318, 845.40843pt x 375.65344pt>
+File: ./Activity_Register.jpg Graphic file (type jpg)
 
-<use ./Domain.jpg>
-Package pdftex.def Info: ./Domain.jpg used on input line 462.
-(pdftex.def)             Requested size: 446.9055pt x 286.5649pt.
+<use ./Activity_Register.jpg>
+Package pdftex.def Info: ./Activity_Register.jpg used on input line 462.
+(pdftex.def)             Requested size: 446.9055pt x 198.57948pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 462--463
 
  []
 
-[23 <./GenerateReport.jpg>] [24 <./Domain.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 468.
- [25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 468.
+[24 <./GenerateReport.jpg>]
+<./activity_login.jpg, id=324, 554.07pt x 417.81094pt>
+File: ./activity_login.jpg Graphic file (type jpg)
+
+<use ./activity_login.jpg>
+Package pdftex.def Info: ./activity_login.jpg used on input line 465.
+(pdftex.def)             Requested size: 446.9055pt x 337.00333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+[25 <./Activity_Register.jpg>]
+<./activity_logout.jpg, id=329, 626.34pt x 433.62pt>
+File: ./activity_logout.jpg Graphic file (type jpg)
+
+<use ./activity_logout.jpg>
+Package pdftex.def Info: ./activity_logout.jpg used on input line 468.
+(pdftex.def)             Requested size: 446.9055pt x 309.40738pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+[26 <./activity_login.jpg>]
+<./activity_create_pub.jpg, id=334, 683.55376pt x 393.72093pt>
+File: ./activity_create_pub.jpg Graphic file (type jpg)
+
+<use ./activity_create_pub.jpg>
+Package pdftex.def Info: ./activity_create_pub.jpg used on input line 471.
+(pdftex.def)             Requested size: 446.9055pt x 257.4175pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+[27 <./activity_logout.jpg>]
+<./activity_remove_author.jpg, id=339, 608.2725pt x 344.78813pt>
+File: ./activity_remove_author.jpg Graphic file (type jpg)
+
+<use ./activity_remove_author.jpg>
+Package pdftex.def Info: ./activity_remove_author.jpg used on input line 474.
+(pdftex.def)             Requested size: 446.9055pt x 253.32416pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+[28 <./activity_create_pub.jpg> <./activity_remove_author.jpg>]
+<./activity_add_author.jpg, id=344, 608.2725pt x 462.97969pt>
+File: ./activity_add_author.jpg Graphic file (type jpg)
+
+<use ./activity_add_author.jpg>
+Package pdftex.def Info: ./activity_add_author.jpg used on input line 477.
+(pdftex.def)             Requested size: 446.9055pt x 340.16234pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+<./activity_edit_pub.jpg, id=345, 738.50906pt x 426.09187pt>
+File: ./activity_edit_pub.jpg Graphic file (type jpg)
+
+<use ./activity_edit_pub.jpg>
+Package pdftex.def Info: ./activity_edit_pub.jpg used on input line 480.
+(pdftex.def)             Requested size: 446.9055pt x 257.84813pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--481
+
+ []
+
+[29 <./activity_add_author.jpg>]
+<./activity_view_pub.jpg, id=350, 575.90157pt x 347.79938pt>
+File: ./activity_view_pub.jpg Graphic file (type jpg)
+
+<use ./activity_view_pub.jpg>
+Package pdftex.def Info: ./activity_view_pub.jpg used on input line 483.
+(pdftex.def)             Requested size: 446.9055pt x 269.9026pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+[30 <./activity_edit_pub.jpg> <./activity_view_pub.jpg>]
+<./actvity_view_profile.jpg, id=356, 612.78937pt x 500.62032pt>
+File: ./actvity_view_profile.jpg Graphic file (type jpg)
+
+<use ./actvity_view_profile.jpg>
+Package pdftex.def Info: ./actvity_view_profile.jpg used on input line 486.
+(pdftex.def)             Requested size: 446.9055pt x 365.0984pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
+
+ []
+
+<./activity_edit_profile.jpg, id=357, 738.50906pt x 412.54124pt>
+File: ./activity_edit_profile.jpg Graphic file (type jpg)
+
+<use ./activity_edit_profile.jpg>
+Package pdftex.def Info: ./activity_edit_profile.jpg used on input line 489.
+(pdftex.def)             Requested size: 446.9055pt x 249.64803pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
+
+ []
+
+[31 <./actvity_view_profile.jpg>]
+<./activity_generate_report.jpg, id=362, 622.57594pt x 346.29375pt>
+File: ./activity_generate_report.jpg Graphic file (type jpg)
+
+<use ./activity_generate_report.jpg>
+Package pdftex.def Info: ./activity_generate_report.jpg used on input line 492.
+
+(pdftex.def)             Requested size: 446.9055pt x 248.58096pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+[32 <./activity_edit_profile.jpg> <./activity_generate_report.jpg>]
+<./Domain.jpg, id=367, 828.09375pt x 530.98375pt>
+File: ./Domain.jpg Graphic file (type jpg)
+ <use ./Domain.jpg>
+Package pdftex.def Info: ./Domain.jpg used on input line 495.
+(pdftex.def)             Requested size: 446.9055pt x 286.5649pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+[33 <./Domain.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 501.
+ [34]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 501.
  (TeamDelta.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 468.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 468.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 501.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 501.
 Package rerunfilecheck Info: File `TeamDelta.out' has not changed.
-(rerunfilecheck)             Checksum: 4A5E2F527E8D0CF5ADC9DE16C9921776;2215.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 468.
+(rerunfilecheck)             Checksum: 441B2D420C527A0F7DE6B9B946E03CDD;3210.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 501.
  ) 
 Here is how much of TeX's memory you used:
- 5150 strings out of 493634
- 77898 string characters out of 3134423
- 160183 words of memory out of 3000000
- 8451 multiletter control sequences out of 15000+200000
+ 5235 strings out of 493634
+ 79729 string characters out of 3134831
+ 161183 words of memory out of 3000000
+ 8506 multiletter control sequences out of 15000+200000
  10005 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,5n,28p,709b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Kinwifu/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TeamDelta.pdf (26 pages, 648736 bytes).
+ 29i,6n,28p,659b,430s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmcsc10.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Daniel/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TeamDelta.pdf (35 pages, 1057637 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 293 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 436 words of extra memory for PDF output out of 10000 (max. 10000000)
 

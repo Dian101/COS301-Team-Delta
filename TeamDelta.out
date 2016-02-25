@@ -25,5 +25,16 @@
 \BOOKMARK [3][-]{subsubsection.5.3.9}{Edit Profile Use Case Diagram}{subsection.5.3}% 25
 \BOOKMARK [3][-]{subsubsection.5.3.10}{Generate Report Use Case Diagram}{subsection.5.3}% 26
 \BOOKMARK [2][-]{subsection.5.4}{Process specifications}{section.5}% 27
-\BOOKMARK [2][-]{subsection.5.5}{Domain Model}{section.5}% 28
-\BOOKMARK [1][-]{section.6}{Open Issues}{}% 29
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Registration Activity Diagram}{subsection.5.4}% 28
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Login Activity Diagram}{subsection.5.4}% 29
+\BOOKMARK [3][-]{subsubsection.5.4.3}{Logout Activity Diagram}{subsection.5.4}% 30
+\BOOKMARK [3][-]{subsubsection.5.4.4}{Create Publication Activity Diagram}{subsection.5.4}% 31
+\BOOKMARK [3][-]{subsubsection.5.4.5}{Remove Author Activity Diagram}{subsection.5.4}% 32
+\BOOKMARK [3][-]{subsubsection.5.4.6}{Add Author Activity Diagram}{subsection.5.4}% 33
+\BOOKMARK [3][-]{subsubsection.5.4.7}{Edit Publication Activity Diagram}{subsection.5.4}% 34
+\BOOKMARK [3][-]{subsubsection.5.4.8}{View Publication Activity Diagram}{subsection.5.4}% 35
+\BOOKMARK [3][-]{subsubsection.5.4.9}{View Profile Activity Diagram}{subsection.5.4}% 36
+\BOOKMARK [3][-]{subsubsection.5.4.10}{Edit Profile Activity Diagram}{subsection.5.4}% 37
+\BOOKMARK [3][-]{subsubsection.5.4.11}{Generate Report Activity Diagram}{subsection.5.4}% 38
+\BOOKMARK [2][-]{subsection.5.5}{Domain Model}{section.5}% 39
+\BOOKMARK [1][-]{section.6}{Open Issues}{}% 40

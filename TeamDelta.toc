@@ -1,29 +1,40 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
-\contentsline {section}{\numberline {2}Vision}{3}{section.2}
-\contentsline {section}{\numberline {3}Background}{4}{section.3}
-\contentsline {section}{\numberline {4}Architecture Requirements}{5}{section.4}
-\contentsline {subsection}{\numberline {4.1}Access Channel Requirements}{5}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Quality Requirements}{6}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Integration Requirements}{7}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}Integration Channels}{7}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}Quality Requirements Integration}{7}{subsubsection.4.3.2}
-\contentsline {subsection}{\numberline {4.4}Architecture Constraints}{8}{subsection.4.4}
-\contentsline {section}{\numberline {5}Functional Requirements and Application Design}{9}{section.5}
-\contentsline {subsection}{\numberline {5.1}Use Case Prioritisation}{9}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Use Case/Services Contracts}{9}{subsection.5.2}
-\contentsline {subsubsection}{\numberline {5.2.1}Use Cases}{9}{subsubsection.5.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2}Service Contracts}{14}{subsubsection.5.2.2}
-\contentsline {subsection}{\numberline {5.3}Required functionality}{14}{subsection.5.3}
-\contentsline {subsubsection}{\numberline {5.3.1}Registration Use Case Diagram}{14}{subsubsection.5.3.1}
-\contentsline {subsubsection}{\numberline {5.3.2}Login Use Case Diagram}{15}{subsubsection.5.3.2}
-\contentsline {subsubsection}{\numberline {5.3.3}Logout Use Case Diagram}{16}{subsubsection.5.3.3}
-\contentsline {subsubsection}{\numberline {5.3.4}Create Publication Use Case Diagram}{17}{subsubsection.5.3.4}
-\contentsline {subsubsection}{\numberline {5.3.5}Add/Remove Author Use Case Diagram}{18}{subsubsection.5.3.5}
-\contentsline {subsubsection}{\numberline {5.3.6}Edit Publication Use Case Diagram}{19}{subsubsection.5.3.6}
-\contentsline {subsubsection}{\numberline {5.3.7}View Publication Use Case Diagram}{20}{subsubsection.5.3.7}
-\contentsline {subsubsection}{\numberline {5.3.8}View Profile Use Case Diagram}{21}{subsubsection.5.3.8}
-\contentsline {subsubsection}{\numberline {5.3.9}Edit Profile Use Case Diagram}{22}{subsubsection.5.3.9}
-\contentsline {subsubsection}{\numberline {5.3.10}Generate Report Use Case Diagram}{23}{subsubsection.5.3.10}
-\contentsline {subsection}{\numberline {5.4}Process specifications}{24}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Domain Model}{24}{subsection.5.5}
-\contentsline {section}{\numberline {6}Open Issues}{25}{section.6}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Vision}{4}{section.2}
+\contentsline {section}{\numberline {3}Background}{5}{section.3}
+\contentsline {section}{\numberline {4}Architecture Requirements}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Access Channel Requirements}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Quality Requirements}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Integration Requirements}{8}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Integration Channels}{8}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Quality Requirements Integration}{8}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}Architecture Constraints}{9}{subsection.4.4}
+\contentsline {section}{\numberline {5}Functional Requirements and Application Design}{10}{section.5}
+\contentsline {subsection}{\numberline {5.1}Use Case Prioritisation}{10}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Use Case/Services Contracts}{10}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Use Cases}{10}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Service Contracts}{15}{subsubsection.5.2.2}
+\contentsline {subsection}{\numberline {5.3}Required functionality}{15}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Registration Use Case Diagram}{15}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Login Use Case Diagram}{16}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Logout Use Case Diagram}{17}{subsubsection.5.3.3}
+\contentsline {subsubsection}{\numberline {5.3.4}Create Publication Use Case Diagram}{18}{subsubsection.5.3.4}
+\contentsline {subsubsection}{\numberline {5.3.5}Add/Remove Author Use Case Diagram}{19}{subsubsection.5.3.5}
+\contentsline {subsubsection}{\numberline {5.3.6}Edit Publication Use Case Diagram}{20}{subsubsection.5.3.6}
+\contentsline {subsubsection}{\numberline {5.3.7}View Publication Use Case Diagram}{21}{subsubsection.5.3.7}
+\contentsline {subsubsection}{\numberline {5.3.8}View Profile Use Case Diagram}{22}{subsubsection.5.3.8}
+\contentsline {subsubsection}{\numberline {5.3.9}Edit Profile Use Case Diagram}{23}{subsubsection.5.3.9}
+\contentsline {subsubsection}{\numberline {5.3.10}Generate Report Use Case Diagram}{24}{subsubsection.5.3.10}
+\contentsline {subsection}{\numberline {5.4}Process specifications}{25}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Registration Activity Diagram}{25}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Login Activity Diagram}{26}{subsubsection.5.4.2}
+\contentsline {subsubsection}{\numberline {5.4.3}Logout Activity Diagram}{27}{subsubsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.4}Create Publication Activity Diagram}{28}{subsubsection.5.4.4}
+\contentsline {subsubsection}{\numberline {5.4.5}Remove Author Activity Diagram}{28}{subsubsection.5.4.5}
+\contentsline {subsubsection}{\numberline {5.4.6}Add Author Activity Diagram}{29}{subsubsection.5.4.6}
+\contentsline {subsubsection}{\numberline {5.4.7}Edit Publication Activity Diagram}{30}{subsubsection.5.4.7}
+\contentsline {subsubsection}{\numberline {5.4.8}View Publication Activity Diagram}{30}{subsubsection.5.4.8}
+\contentsline {subsubsection}{\numberline {5.4.9}View Profile Activity Diagram}{31}{subsubsection.5.4.9}
+\contentsline {subsubsection}{\numberline {5.4.10}Edit Profile Activity Diagram}{32}{subsubsection.5.4.10}
+\contentsline {subsubsection}{\numberline {5.4.11}Generate Report Activity Diagram}{32}{subsubsection.5.4.11}
+\contentsline {subsection}{\numberline {5.5}Domain Model}{33}{subsection.5.5}
+\contentsline {section}{\numberline {6}Open Issues}{34}{section.6}
