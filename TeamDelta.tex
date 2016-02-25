@@ -223,207 +223,209 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 \subsection{Use Case Prioritisation}
 The Use Case Prioritisation is specified for each use case listed under the next section: "Use Case/Services Contracts".
 \subsection{Use Case/Services Contracts}
-\begin{itemize}
-	\item[$\bullet$]\textbf{Registration}\newline
-
-	\textbf{Description:} A user is able to register an account on the publishing website.\newline
+	\subsubsection{Use Cases}
+	\begin{itemize}
+		\item[$\bullet$]\textbf{Registration}\newline
+		
+		\textbf{Description:} A user is able to register an account on the publishing website.\newline
+		
+		\textbf{Use Case Prioritisation:} Critical\newline
+		
+		\textbf{Pre-Conditions:}
+			\begin{itemize}
+				\item[$\bullet$]A user must make use of a unique user name.
+				\item[$\bullet$]A user can register an account if they are a staff member.
+			\item[$\bullet$]A user who is not a staff member must register through an administrator or Head of department.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]The user information is stored in the database.
+			\item[$\bullet$]The user receives the login information.
+			\item[$\bullet$]The user is able to login the website.
+			\\
+		\end{itemize}
+		\newpage
+		\item[$\bullet$]\textbf{Login}\newline
+		
+		\textbf{Description:} A registered user is able to log into the website making use of the features available to them.\newline
+		
+		\textbf{Use Case Prioritisation:} Critical\newline
+		
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must have a registered account in order to login.
+			\item[$\bullet$]A user must login with the correct user name and password.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]A user has access to certain parts of the website according to their privileges.
+			\item[$\bullet$]A user has access to certain functions of the website according to their privileges.
+			\\
+		\end{itemize}
+		\item[$\bullet$]\textbf{Logout}\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
+		\textbf{Description:} User is able to logout of the web page.\newline
+		
+		\textbf{Use Case Prioritisation:} Critical\newline
+		
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to log out.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]User no longer has privileges of being logged in.
+			\\
+		\end{itemize}
+		\newpage
+		\item[$\bullet$]\textbf{Create publication}\newline
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must make use of a unique user name.
-		\item[$\bullet$]A user can register an account if they are a staff member.
-		\item[$\bullet$]A user who is not a staff member must register through an administrator or Head of department.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]The user information is stored in the database.
-		\item[$\bullet$]The user receives the login information.
-		\item[$\bullet$]The user is able to login the website.
-		\\
-	\end{itemize}
-	\newpage
-	\item[$\bullet$]\textbf{Login}\newline
-
-	\textbf{Description:} A registered user is able to log into the website making use of the features available to them.\newline
+		\textbf{Description:} A user can create a publication which holds information about the publishing, also authors who contributed.\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
+		\textbf{Use Case Prioritisation:} Critical\newline
+
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to create a publication.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]At least one user must be assigned to the publication (Creator or author).
+			\item[$\bullet$]Meta-data on the publishing must be stored in some form of database.).
+			\\
+		\end{itemize}
+		\item[$\bullet$]\textbf{Add author}\newline
+
+		\textbf{Description:} Add author - A user can add authors to their publication who have worked or helped with the publication.\newline
 	
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must have a registered account in order to login.
-		\item[$\bullet$]A user must login with the correct user name and password.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]A user has access to certain parts of the website according to their privileges.
-		\item[$\bullet$]A user has access to certain functions of the website according to their privileges.
-		\\
-	\end{itemize}
-	\item[$\bullet$]\textbf{Logout}\newline
+		\textbf{Use Case Prioritisation:} Critical\newline
 
-	\textbf{Description:} User is able to logout of the web page.\newline
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to add an author.
+			\item[$\bullet$]A user must create a publishing before adding another author to the publishing.
+			\item[$\bullet$]The user being added must have a registered account with the website.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]Added Author is listed on the publication.
+			\\
+		\end{itemize}
+		\newpage
+		\item[$\bullet$]\textbf{Remove author}\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
-
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to log out.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]User no longer has privileges of being logged in.
-		\\
-	\end{itemize}
-	\newpage
-	\item[$\bullet$]\textbf{Create publication}\newline
-
-	\textbf{Description:} A user can create a publication which holds information about the publishing, also authors who contributed.\newline
+		\textbf{Description:} A user can remove authors from their created publications.\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
+		\textbf{Use Case Prioritisation:} Critical\newline
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to create a publication.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]At least one user must be assigned to the publication (Creator or author).
-		\item[$\bullet$]Meta-data on the publishing must be stored in some form of database.).
-		\\
-	\end{itemize}
-	\item[$\bullet$]\textbf{Add author}\newline
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to delete an author.
+			\item[$\bullet$]A user can only delete authors they have added.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }	
+		\begin{itemize}
+			\item[$\bullet$]Author deleted is removed from the list of authors on the publication.
+			\\
+		\end{itemize}
+		\item[$\bullet$]\textbf{Edit publication}\newline
 
-	\textbf{Description:} Add author - A user can add authors to their publication who have worked or helped with the publication.\newline
+		\textbf{Description:} A user can change the details of their created publications.\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
+		\textbf{Use Case Prioritisation:} Critical\newline
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to add an author.
-		\item[$\bullet$]A user must create a publishing before adding another author to the publishing.
-		\item[$\bullet$]The user being added must have a registered account with the website.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]Added Author is listed on the publication.
-		\\
-	\end{itemize}
-	\newpage
-	\item[$\bullet$]\textbf{Remove author}\newline
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to edit a publication.
+			\item[$\bullet$]A user can only edit their own publications.
+			\\	
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]Changes made to the publication meta-data is changed on the data on the web server.
+			\\
+		\end{itemize}
 
-	\textbf{Description:} A user can remove authors from their created publications.\newline
+		\newpage
+		\item[$\bullet$]\textbf{View publication}\newline
+
+		\textbf{Description:} A user can view publications they are working on.\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
+		\textbf{Use Case Prioritisation:} Critical\newline	
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to delete an author.
-		\item[$\bullet$]A user can only delete authors they have added.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]Author deleted is removed from the list of authors on the publication.
-		\\
-	\end{itemize}
-	\item[$\bullet$]\textbf{Edit publication}\newline
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to view a publication.
+			\item[$\bullet$]A user can only view publications they are directly involved in.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]Information is correctly diplayed to the user.
+			\\
+		\end{itemize}
+		\item[$\bullet$]\textbf{View profile}\newline
 
-	\textbf{Description:} A user can change the details of their created publications.\newline
+		\textbf{Description:} User can view their own and other user profiles.\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline
+		\textbf{Use Case Prioritisation:} Important\newline
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to edit a publication.
-		\item[$\bullet$]A user can only edit their own publications.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]Changes made to the publication meta-data is changed on the data on the web server.
-		\\
-	\end{itemize}
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to view a profile.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]A user will view and have access to edit their profile.
+			\\
+		\end{itemize}
+		\item[$\bullet$]\textbf{Edit profile}\newline
 
-	\newpage
-	\item[$\bullet$]\textbf{View publication}\newline
-
-	\textbf{Description:} A user can view publications they are working on.\newline
+		\textbf{Description:} User can edit their own user profiles.\newline
 	
-	\textbf{Use Case Prioritisation:} Critical\newline	
+		\textbf{Use Case Prioritisation:} Important\newline	
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to view a publication.
-		\item[$\bullet$]A user can only view publications they are directly involved in.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]Information is correctly diplayed to the user.
-		\\
-	\end{itemize}
-	\item[$\bullet$]\textbf{View profile}\newline
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to edit their profile.
+			\item[$\bullet$]A user can only edit their own profile.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]Any changes made to their profile will take effect.
+			\\
+		\end{itemize}
 
-	\textbf{Description:} User can view their own and other user profiles.\newline
+		\newpage
+		\item[$\bullet$]\textbf{Generate summary}\newline
+
+		\textbf{Description:} Certain users/members can generate information on the publications.\newline
 	
-	\textbf{Use Case Prioritisation:} Important\newline
+		\textbf{Use Case Prioritisation:} Nice-To-Have\newline
 
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to view a profile.
-		\\
+		\textbf{Pre-Conditions:}
+		\begin{itemize}
+			\item[$\bullet$]A user must be logged into the web page in order to generate a summary on certain publications.
+			\item[$\bullet$]A user can only generate a summary on publications they are involved in.
+			\item[$\bullet$]Head of department can generate summary on all publications..
+			\item[$\bullet$]Research leaders can generate summaries on fields of research.
+			\\
+		\end{itemize}
+		\textbf{Post-Conditions: }
+		\begin{itemize}
+			\item[$\bullet$]Information displayed of selected publications must be accurate.
+			\\
+		\end{itemize}
 	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]A user will view and have access to edit their profile.
-		\\
-	\end{itemize}
-	\item[$\bullet$]\textbf{Edit profile}\newline
-
-	\textbf{Description:} User can edit their own user profiles.\newline
-	
-	\textbf{Use Case Prioritisation:} Important\newline	
-
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to edit their profile.
-		\item[$\bullet$]A user can only edit their own profile.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]Any changes made to their profile will take effect.
-		\\
-	\end{itemize}
-
-	\newpage
-	\item[$\bullet$]\textbf{Generate summary}\newline
-
-	\textbf{Description:} Certain users/members can generate information on the publications.\newline
-	
-	\textbf{Use Case Prioritisation:} Nice-To-Have\newline
-
-	\textbf{Pre-Conditions:}
-	\begin{itemize}
-		\item[$\bullet$]A user must be logged into the web page in order to generate a summary on certain publications.
-		\item[$\bullet$]A user can only generate a summary on publications they are involved in.
-		\item[$\bullet$]Head of department can generate summary on all publications..
-		\item[$\bullet$]Research leaders can generate summaries on fields of research.
-		\\
-	\end{itemize}
-	\textbf{Post-Conditions: }
-	\begin{itemize}
-		\item[$\bullet$]Information displayed of selected publications must be accurate.
-		\\
-	\end{itemize}
-\end{itemize}
+	\subsubsection{Service Contracts}
 \subsection{Required functionality}
 	\subsubsection{Registration Use Case Diagram}
 	\includegraphics[width=1\textwidth]{./Registration.jpg}\\[1.5cm]
