@@ -92,8 +92,10 @@ The very nature of research means that a team or individual will constantly have
 The above problem is what is currently hindering research efforts within the Department of Computer Science and the world! It is for this reason that the client is interested in developing a research repository that will allow them to share, maintain, and collaborate on various research papers in an effective and timely manner. A system, that is easy to use, is thus suggested to enable remote collaboration on research materials allowing the user to save considerably on time and effort. Such a system would certainly improve the throughput of research efforts, thus allowing authors to focus on quality research rather than deadlines.  
 
 \newpage
-\section{Architecture Requirements}
-\subsection{Access Channel Requirements}
+\section{Software Architecture}
+\subsection{Architecture Requirements}
+\subsubsection{Architectural Scope}
+\subsubsection{Access Channel Requirements}
 \begin{flushleft}
 
 This section specifies and describes different access channels through which the services of the target system will be accessed by humans. The different functions of the system will be highlighted and how different access channels will provide access to these functions. The system must be able to provide the platforms with an interface through which they can access the functions this will be done through the use of a Application Programming  Interface (API).
@@ -109,7 +111,7 @@ be used:
 \\
 \end{itemize}
  
-The above mentioned platforms will have ways of providing the functionality of the system through their methods that are defined in their API's. The access channels will have to provide the users with the ability to view certain data structures , search through the data structures, create new entities (users and publication meta-data ), delete existing entities, update attributes of existing entities , to open, view, edit or import certain types files (excel,image files etc), user registration, log in and authentification. 
+The above mentioned platforms will have ways of providing the functionality of the system through their methods that are defined in their API's. The access channels will have to provide the users with the ability to view certain data structures , search through the data structures, create new entities (users and publication meta-data ), delete existing entities, update attributes of existing entities , to open, view, edit or import certain types files (excel,image files etc), user registration, log in and authentification.
 
 \textbf{Android Application.}
 
@@ -123,7 +125,7 @@ For clients who access the system's services via a web interface can use any of 
 
 Restful web services clients will interact with our system via its RESTful api that makes use of the http request to obtain data from other systems over the internet.
 \end{flushleft}
-\subsection{Quality Requirements}
+\subsubsection{Quality Requirements}
 Quality not only refers to how many clients’ requirements the product fulfils. It also refers to how much effort is put into a product to satisfy the consumers’ needs and wants compared to other similar product. The aim however is to fulfil, at the least, every need over the wants of the client.
  \begin{itemize}
  	\item[$\bullet$]Performance: 
@@ -178,14 +180,16 @@ Quality not only refers to how many clients’ requirements the product fulfils.
 	 \end{itemize}
  	 \end{itemize}
 
-\subsection{Integration Requirements}
+\subsubsection{Integration Requirements}
+\begin{flushleft}
 Integration involves merging various subsystems into a single cohesive system. With regard to this project the subsystems may consist the application being developed as well as database management systems.
 
 In order to successfully and safely integrate these subsystems they need to be directly and securely linked to one another. This can be easily achieve by creating a secure connection through the application to the database management system. 
 
 The system itself will need to be integrated on two seperate platforms, namely a website and mobile application. In the case of the website it may be desirable to display certain content dynamically as opposed to reloading a new page for each item.
 
-\subsubsection{Integration Channels}
+\textbf{Integration Channels}
+
 It is recommended that the following be used to successfully achieve the aforementioned integration:
 \begin{itemize}
 	\item[$\bullet$]PHP: Hypertext Preprocessor
@@ -196,7 +200,8 @@ In order to achieve this dynamic display the following technologies will be used
 	\item[$\bullet$]JSON
 \end{itemize}
 
-\subsubsection{Quality Requirements Integration}
+\textbf{Quality Requirements Integration}
+
 Systems consist of both functional, what a system has to do, and non-functional requirements, how a system needs to behave. In other words non-functional requirements refers to qualitative attributes of a system. The following quality requirements will need to be integrated into the system:
 \begin{itemize}
 	\item[$\bullet$]\textbf{Low resource consumption(Mobile use): } the user should be kept in mind when developing the system, to ensure that no unnecessary resources are used.
@@ -207,8 +212,9 @@ Systems consist of both functional, what a system has to do, and non-functional 
 	\item[$\bullet$]\textbf{Scalability: }The system needs to accommodate growth.
 	\item[$\bullet$]\textbf{Flexibility: }The system needs to be easily adaptable to change should the client require additional functionality for example.
 \end{itemize}
+\end{flushleft}
 
-\subsection{Architecture Constraints}
+\subsubsection{Architectural Constraints}
 The Architecture constraints were indicated on 16.02.2016 in a Client requirements session and lists the following technologies that will be used in the project:
 \begin{itemize}
 	\item[$\bullet$]HTML (Hypertext Markup Language) 
@@ -218,6 +224,18 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 	\item[$\bullet$]Andriod
 	\\
 \end{itemize}
+
+\newpage
+\subsection{Architectural patterns or styles}
+
+\newpage
+\subsection{Architectural tactics or strategies}
+
+\newpage
+\subsection{Use of reference architectures and frameworks}
+
+\newpage
+\subsection{Technologies}
 
 \newpage
 \section{Functional Requirements and Application Design}
