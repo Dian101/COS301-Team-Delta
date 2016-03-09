@@ -230,7 +230,69 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 
 \newpage
 \subsection{Architectural tactics or strategies}
+\begin{flushleft}
+	Tactics in general, serve as the building blocks from which architectural patterns are ultimately constructed or developed. In the following section we will discuss, briefly, the various tactics that may be used to realise various quality requirements of a system. 
+	
+	\subsubsection{Performance:}
+	The performance quality attribute concerns itself with decreasing latency while increasing the throughput of a particular system.
+	
+	Latency can be decreased if a system is responsive, including its ability to respond to a request, such as a database request for example, in rapid time.
+	
+	The throughput of a system is increased if a system is able to respond to multiple requests at the same time without hindering its performance.
+	
+	Performance can thus be improved by simple resource management. This can be achieved in a multitude of ways. Introducing concurrency to the system and thus spawning multiple threads to take care of user requests. Make use of a scheduler to provide each request or operation with a fair share of the resource. 
+	
+	\subsubsection{Reliability:}
+	This quality attribute concerns itself with whether a part or component, or system as a whole can perform its intended operations on a given environment for a specific amount of time without failure.
+	
+	To improve a systems reliability the system needs to be fault tolerant. This implies that a system needs to be able to maintain a certain level of performance when a fault has occurred or an interface has not been used for its intended purpose. 
+	
+	Reliability is also improved through the recoverability. This implies that a system should be able to recover to a certain level of performance and recover data. 
+	
+	To achieve the above mentioned, the handling of exceptions and errors is general is of the utmost importance. Error and Exceptions handling will be a useful tactic for allow faults to occur as well as giving the user the option of recovering from a fault.
 
+	\subsubsection{Security:}	
+	Security concerns itself with unauthorized access. More specifically it intends to prevent unauthorized access to a resource, information or a particular service. This includes both aspects of confidentiality and integrity. Thus the information on that system is private and cannot be changed by any unauthorised users.
+	
+	To prevent attacks a few tactics may be used. Thus includes authenticating users during login, thus checking that a person is who they say they are. Provide authorisation is another tactic that ensures that authenticated users are only allowed to access information relevant to them. Limiting access to resources is another tactic in which the number of access points to particular information is limited, and in turn limits opportunities for unauthorised access.
+	
+	It is of course impossible to prevent all forms of attack so a strategy need to be in place that can detect attacks. 
+
+	\subsubsection{Usability:}
+	Simply put, this quality attribute is all about ease of use. Usable systems imply that a system is easy to learn, to navigate about and to use in general. Usable systems should be able to guide users through the entire process and provide feedback on both success and incorrect operations.
+	
+	To achieve this, tactics that keep the user in mind need to be employed. In certain situations a user may enter an operation by accident and would want to leave. It is not feasible to force them to first complete the operation before continuing thus a simple Cancel operation may be used. 
+	
+	Likewise the system needs to cater for user mistakes as well as afford them the opportunity to save progress should it be applicable during certain operations. This can be easily achieved through undo, load, and save operations. 
+	
+	From a visual design perspective usability can be improved by orders of magnitude by simple providing a visual hierarchy and logical layout of a GUI. The planning and use of appropriate colours should not be underestimated either.
+			
+	\subsubsection{Scalability:}
+	This quality attribute is concerned with how predictable a system will perform as the workload or volume of requests increases. Thus a system needs to be able to handle increases in users and requests at any given time.
+	
+	This can be achieved through optimization of operations that seem to be used quite frequently. For example querying a particular research article will occur more often than login and logout. 
+	
+	It is also important to note that scalability can only be achieved if performance goals are met, thus the tactics mentioned in performance are also relevant to scalability. 
+	
+	\subsubsection{Flexibility:}
+	Flexibility is concerned with the ease of which a change can be made to a particular system. This is also known as modifiability and has a direct influence on maintainability as well. Systems that are more flexible tend to be more maintainable. Flexible systems are also easier to port to multiple different platforms.
+	
+	These systems in general tend to be modular and thus have propensity to adapt to certain changes.
+	
+	The tactics for improving flexibility, quite simply put, is concerned with decreasing the effort need to make changes to a particular system. This can be achieved by limiting what a change can do to a system, in other words what are the overall consequences of a change. 
+	
+	This can be achieved by grouping elements that belong together into a cohesive whole. This is because elements that work together are likely to change together if one is changed.
+	
+	\subsubsection{Maintainability:}
+	This refers to the ease to which a software system can be maintained in terms of repair, adding new requirements and maximising other attributes.
+	
+	Maintainability can be achieved through early planning. This involves anticipating what future changes may be made to the system. A rather important tactic is that of object orientated design. This allows program tasks to be more independent of each other and thus easier to maintain.
+	
+	Maintainability can further be improved by making use of uniform naming conventions, Coding standards and styles. 
+	
+	Lastly, by providing proper documentation for the software, the maintainability can be drastically improved. 	
+	
+\end{flushleft}
 \newpage
 \subsection{Use of reference architectures and frameworks}
 
