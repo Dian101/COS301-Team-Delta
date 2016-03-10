@@ -227,6 +227,40 @@ The Architecture constraints were indicated on 16.02.2016 in a Client requiremen
 
 \newpage
 \subsection{Architectural patterns or styles}
+Patterns and Styles define the structure to be used when coding an application. In this ection we will be describing the different patterns and styles to be followed when developing the system.
+\begin{itemize}
+	\item[$\bullet$]Layering 
+		\begin{itemize}
+		\item[$\bullet$]Client-Server (2-tier)
+			\begin{itemize}
+			\item[$\bullet$]Server handles storage of data into the database and provides data on request. The Server is responsible for all back end functions of the software including the verification of users for security.
+			\item[$\bullet$]Client provides an interface between the system and its users. Responsible for the front-end of the application, the sending of queries and requesting services from the server.
+			\end{itemize}
+		\end{itemize}
+		\item[$\bullet$] MVC
+			\begin{itemize}
+			\item[$\bullet$] Model
+				\begin{itemize}
+				\item[$\bullet$] Manages the data and logic of the software. 
+				\item[$\bullet$] A DBMS (Database Management Software) will used to model the data and control the data flow.
+				\end{itemize}
+			\item[$\bullet$]View
+				\begin{itemize}
+				\item[$\bullet$]Interchangeable platforms on which the data will be represented,  android for mobile and web version for all other devices. 
+				\item[$\bullet$]JSON for lightweight transfer of data and AJAX to communicate with the server and access the system. 
+				\item[$\bullet$]Data can be represented and structured sufficiently in HTML.
+				\end{itemize}
+			\item[$\bullet$]Controller
+				\begin{itemize}
+				\item[$\bullet$]Accepts the users input and converts it into commands the model or the view can understand. PHP processor will execute the commands between the view and model..
+				\end{itemize}
+			\end{itemize}
+		\item[$\bullet$]Hierarchical
+			\begin{itemize}
+			\item[$\bullet$]User groups are divided into different levels where the groups at top level having access to the most options in the system and the groups at the bottom level having the least amount of options. 
+			\item[$\bullet$] Controller in the MVC will Implement this pattern by verifying the user input against the model.
+			\end{itemize}
+\end{itemize}
 
 \newpage
 \subsection{Architectural tactics or strategies}
