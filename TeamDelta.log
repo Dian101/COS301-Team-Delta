@@ -1,13 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.23)  11 MAR 2016 07:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.21)  11 MAR 2016 16:40
 entering extended mode
-**C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
-(C:/Users/Kinwifu/Documents/GitHub/COS301-Team-Delta/TeamDelta.tex
-LaTeX2e <2015/10/01> patch level 2
+**./TeamDelta.tex
+(TeamDelta.tex
+LaTeX2e <2016/02/01>
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
-"
+
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.
+cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.c
+lo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -28,39 +31,39 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 
 Writing index file TeamDelta.idx
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-x.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\grap
+hicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
-sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyv
+al.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
-s.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\grap
+hics.sty"
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
-y"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphic
-s.cfg"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\grap
+hics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdfte
-x.def"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pd
+ftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
-rerr.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\in
+fwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
-ds.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\lt
+xcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -68,11 +71,12 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.sty
-"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\makeidx.
+sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.s
+ty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count88
 \float@exts=\toks15
@@ -80,17 +84,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box27
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperre
-f.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hype
+rref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-hyperref.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ho
+bsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsu
-b-generic.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ho
+bsub-generic.sty"
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -131,30 +135,30 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
-x.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifx
+etex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook
-.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxh
+ook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
-ns.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvop
+tions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.
-def"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1e
+nc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count91
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperre
-f.cfg"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hype
+rref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -166,7 +170,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count92
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -192,14 +196,14 @@ LaTeX Info: Redefining \pageref on input line 6369.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex
-.def"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdf
+tex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfi
-lecheck.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\reru
+nfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -229,8 +233,8 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.
-mkii"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen109
@@ -246,24 +250,24 @@ mkii"
 )
 \AtBeginShipoutBox=\box29
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.s
-ty"
-Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\colo
+r.sty"
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.c
-fg"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\colo
+r.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 142.
+Package color Info: Driver file: pdftex.def on input line 143.
 )
 Package hyperref Info: Link coloring ON on input line 24.
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref
-.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\name
+ref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Users\Kinwifu\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\getti
-tlestring.sty"
+("C:\Users\Hlengekile\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ge
+ttitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count105
@@ -276,7 +280,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \openout4 = `TeamDelta.out'.
 
 
-<./up-logo.jpg, id=223, 317.185pt x 86.3225pt>
+<./up-logo.jpg, id=235, 317.185pt x 86.3225pt>
 File: ./up-logo.jpg Graphic file (type jpg)
  <use ./up-logo.jpg>
 Package pdftex.def Info: ./up-logo.jpg used on input line 30.
@@ -293,8 +297,8 @@ Overfull \hbox (3.0945pt too wide) in paragraph at lines 36--36
 
 [1
 
-{C:/Users/Kinwifu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./up-logo
-.jpg>] (TeamDelta.toc
+{C:/Users/Hlengekile/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./up-l
+ogo.jpg>] (TeamDelta.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -305,21 +309,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.32 ...Use Case Diagram}{23}{subsubsection.5.3.1}
+l.32 ...se/Services Contracts}{18}{subsection.5.2}
                                                    [1])
 \tf@toc=\write5
 \openout5 = `TeamDelta.toc'.
 
  [2] [3] [4] [5]
-[6]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
- [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 236--238
+
+[6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
@@ -330,582 +334,582 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [14] [15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+ [14] [15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--437
+Underfull \hbox (badness 10000) in paragraph at lines 434--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--444
-
- []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 455--457
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 461--463
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 472--474
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--479
+Underfull \hbox (badness 10000) in paragraph at lines 441--443
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--484
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--486
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--491
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--497
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
+Underfull \hbox (badness 10000) in paragraph at lines 463--464
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--510
+Underfull \hbox (badness 10000) in paragraph at lines 471--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--515
+Underfull \hbox (badness 10000) in paragraph at lines 476--478
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 517--518
+Underfull \hbox (badness 10000) in paragraph at lines 480--481
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--520
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 521--522
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--528
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--533
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--535
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--537
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
+Underfull \hbox (badness 10000) in paragraph at lines 501--502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 543--545
+Underfull \hbox (badness 10000) in paragraph at lines 507--509
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 548--550
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--556
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--558
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--564
+Underfull \hbox (badness 10000) in paragraph at lines 525--527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 567--569
+Underfull \hbox (badness 10000) in paragraph at lines 530--532
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--573
+Underfull \hbox (badness 10000) in paragraph at lines 535--536
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--575
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 578--580
+Underfull \hbox (badness 10000) in paragraph at lines 542--544
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--585
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 586--587
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 588--589
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 590--591
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 595--597
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 600--602
+Underfull \hbox (badness 10000) in paragraph at lines 547--549
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 605--606
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 607--608
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 609--610
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 616--618
+Underfull \hbox (badness 10000) in paragraph at lines 561--563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 621--623
+Underfull \hbox (badness 10000) in paragraph at lines 566--568
 
  []
 
-<"Login - Service Contract".jpg, id=375, 987.69pt x 713.66624pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 577--579
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--601
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 604--605
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--609
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--622
+
+ []
+
+<"Login - Service Contract".jpg, id=394, 987.69pt x 713.66624pt>
 File: "Login - Service Contract".jpg Graphic file (type jpg)
 
 <use "Login - Service Contract".jpg>
-Package pdftex.def Info: "Login - Service Contract".jpg used on input line 626.
+Package pdftex.def Info: "Login - Service Contract".jpg used on input line 625.
 
 (pdftex.def)             Requested size: 446.9055pt x 322.91096pt.
 
-<"Create Publication - Service Contract".jpg, id=376, 987.69pt x 723.70375pt>
+<"Create Publication - Service Contract".jpg, id=395, 987.69pt x 723.70375pt>
 File: "Create Publication - Service Contract".jpg Graphic file (type jpg)
 
 <use "Create Publication - Service Contract".jpg>
 Package pdftex.def Info: "Create Publication - Service Contract".jpg used on in
-put line 631.
+put line 630.
 (pdftex.def)             Requested size: 446.9055pt x 327.4526pt.
- [22 <./Login - Service Contract.jpg>] <./Registration.jpg, id=382, 888.31876pt
+ [23 <./Login - Service Contract.jpg>] <./Registration.jpg, id=401, 888.31876pt
  x 481.8pt>
 File: ./Registration.jpg Graphic file (type jpg)
 
 <use ./Registration.jpg>
-Package pdftex.def Info: ./Registration.jpg used on input line 638.
+Package pdftex.def Info: ./Registration.jpg used on input line 637.
 (pdftex.def)             Requested size: 446.9055pt x 242.38443pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--639
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
 
  []
 
-[23 <./Create Publication - Service Contract.jpg> <./Registration.jpg>]
-<./Login.jpg, id=388, 588.1975pt x 401.5pt>
+[24 <./Create Publication - Service Contract.jpg> <./Registration.jpg>]
+<./Login.jpg, id=408, 588.1975pt x 401.5pt>
 File: ./Login.jpg Graphic file (type jpg)
  <use ./Login.jpg>
-Package pdftex.def Info: ./Login.jpg used on input line 641.
+Package pdftex.def Info: ./Login.jpg used on input line 640.
 (pdftex.def)             Requested size: 446.9055pt x 305.05739pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 640--641
 
  []
 
-<./Logout.jpg, id=389, 596.2275pt x 413.545pt>
+<./Logout.jpg, id=409, 596.2275pt x 413.545pt>
 File: ./Logout.jpg Graphic file (type jpg)
  <use ./Logout.jpg>
-Package pdftex.def Info: ./Logout.jpg used on input line 644.
+Package pdftex.def Info: ./Logout.jpg used on input line 643.
 (pdftex.def)             Requested size: 446.9055pt x 309.97498pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 644--645
+Underfull \hbox (badness 10000) in paragraph at lines 643--644
 
  []
 
-[24 <./Login.jpg>] <./CreatePublication.jpg, id=395, 584.1825pt x 409.53pt>
+[25 <./Login.jpg>] <./CreatePublication.jpg, id=414, 584.1825pt x 409.53pt>
 File: ./CreatePublication.jpg Graphic file (type jpg)
 
 <use ./CreatePublication.jpg>
-Package pdftex.def Info: ./CreatePublication.jpg used on input line 647.
+Package pdftex.def Info: ./CreatePublication.jpg used on input line 646.
 (pdftex.def)             Requested size: 446.9055pt x 313.30193pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--648
+Underfull \hbox (badness 10000) in paragraph at lines 646--647
 
  []
 
-[25 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=400, 568.1225pt x 405.515pt>
+[26 <./Logout.jpg>] <./AddRemoveAuthor.jpg, id=419, 568.1225pt x 405.515pt>
 File: ./AddRemoveAuthor.jpg Graphic file (type jpg)
 
 <use ./AddRemoveAuthor.jpg>
-Package pdftex.def Info: ./AddRemoveAuthor.jpg used on input line 650.
+Package pdftex.def Info: ./AddRemoveAuthor.jpg used on input line 649.
 (pdftex.def)             Requested size: 446.9055pt x 319.00441pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 650--651
+Underfull \hbox (badness 10000) in paragraph at lines 649--650
 
  []
 
-[26 <./CreatePublication.jpg>]
-<./EditPublication.jpg, id=405, 568.1225pt x 407.5225pt>
+[27 <./CreatePublication.jpg>]
+<./EditPublication.jpg, id=424, 568.1225pt x 407.5225pt>
 File: ./EditPublication.jpg Graphic file (type jpg)
 
 <use ./EditPublication.jpg>
-Package pdftex.def Info: ./EditPublication.jpg used on input line 653.
+Package pdftex.def Info: ./EditPublication.jpg used on input line 652.
 (pdftex.def)             Requested size: 446.9055pt x 320.58365pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 653--654
+Underfull \hbox (badness 10000) in paragraph at lines 652--653
 
  []
 
-[27 <./AddRemoveAuthor.jpg>]
-<./ViewPublication.jpg, id=410, 573.14125pt x 402.50375pt>
+[28 <./AddRemoveAuthor.jpg>]
+<./ViewPublication.jpg, id=429, 573.14125pt x 402.50375pt>
 File: ./ViewPublication.jpg Graphic file (type jpg)
 
 <use ./ViewPublication.jpg>
-Package pdftex.def Info: ./ViewPublication.jpg used on input line 656.
+Package pdftex.def Info: ./ViewPublication.jpg used on input line 655.
 (pdftex.def)             Requested size: 446.9055pt x 313.8534pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--657
+Underfull \hbox (badness 10000) in paragraph at lines 655--656
 
  []
 
-[28 <./EditPublication.jpg>]
-<./ViewProfile.jpg, id=415, 590.205pt x 403.5075pt>
+[29 <./EditPublication.jpg>]
+<./ViewProfile.jpg, id=434, 590.205pt x 403.5075pt>
 File: ./ViewProfile.jpg Graphic file (type jpg)
  <use ./ViewProfile.jpg>
-Package pdftex.def Info: ./ViewProfile.jpg used on input line 659.
+Package pdftex.def Info: ./ViewProfile.jpg used on input line 658.
 (pdftex.def)             Requested size: 446.9055pt x 305.54214pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
 
  []
 
-[29 <./ViewPublication.jpg>]
-<./EditProfile.jpg, id=420, 705.63625pt x 414.54875pt>
+[30 <./ViewPublication.jpg>]
+<./EditProfile.jpg, id=440, 705.63625pt x 414.54875pt>
 File: ./EditProfile.jpg Graphic file (type jpg)
  <use ./EditProfile.jpg>
-Package pdftex.def Info: ./EditProfile.jpg used on input line 662.
+Package pdftex.def Info: ./EditProfile.jpg used on input line 661.
 (pdftex.def)             Requested size: 446.9055pt x 262.55237pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 662--663
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
 
  []
 
-[30 <./ViewProfile.jpg>]
-<./GenerateReport.jpg, id=426, 571.13374pt x 417.56pt>
+[31 <./ViewProfile.jpg>]
+<./GenerateReport.jpg, id=445, 571.13374pt x 417.56pt>
 File: ./GenerateReport.jpg Graphic file (type jpg)
 
 <use ./GenerateReport.jpg>
-Package pdftex.def Info: ./GenerateReport.jpg used on input line 665.
+Package pdftex.def Info: ./GenerateReport.jpg used on input line 664.
 (pdftex.def)             Requested size: 446.9055pt x 326.73402pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 665--666
+Underfull \hbox (badness 10000) in paragraph at lines 664--665
 
  []
 
-[31 <./EditProfile.jpg>]
-<./Activity_Register.jpg, id=431, 845.40843pt x 375.65344pt>
+[32 <./EditProfile.jpg>]
+<./Activity_Register.jpg, id=450, 845.40843pt x 375.65344pt>
 File: ./Activity_Register.jpg Graphic file (type jpg)
 
 <use ./Activity_Register.jpg>
-Package pdftex.def Info: ./Activity_Register.jpg used on input line 669.
+Package pdftex.def Info: ./Activity_Register.jpg used on input line 668.
 (pdftex.def)             Requested size: 446.9055pt x 198.57948pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 669--670
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
 
  []
 
-[32 <./GenerateReport.jpg>]
-<./activity_login.jpg, id=436, 554.07pt x 417.81094pt>
+[33 <./GenerateReport.jpg>]
+<./activity_login.jpg, id=455, 554.07pt x 417.81094pt>
 File: ./activity_login.jpg Graphic file (type jpg)
 
 <use ./activity_login.jpg>
-Package pdftex.def Info: ./activity_login.jpg used on input line 672.
+Package pdftex.def Info: ./activity_login.jpg used on input line 671.
 (pdftex.def)             Requested size: 446.9055pt x 337.00333pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+Underfull \hbox (badness 10000) in paragraph at lines 671--672
 
  []
 
-[33 <./Activity_Register.jpg>]
-<./activity_logout.jpg, id=441, 626.34pt x 433.62pt>
+[34 <./Activity_Register.jpg>]
+<./activity_logout.jpg, id=460, 626.34pt x 433.62pt>
 File: ./activity_logout.jpg Graphic file (type jpg)
 
 <use ./activity_logout.jpg>
-Package pdftex.def Info: ./activity_logout.jpg used on input line 675.
+Package pdftex.def Info: ./activity_logout.jpg used on input line 674.
 (pdftex.def)             Requested size: 446.9055pt x 309.40738pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 675--676
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
 
  []
 
-[34 <./activity_login.jpg>]
-<./activity_create_pub.jpg, id=446, 683.55376pt x 393.72093pt>
+[35 <./activity_login.jpg>]
+<./activity_create_pub.jpg, id=465, 683.55376pt x 393.72093pt>
 File: ./activity_create_pub.jpg Graphic file (type jpg)
 
 <use ./activity_create_pub.jpg>
-Package pdftex.def Info: ./activity_create_pub.jpg used on input line 678.
+Package pdftex.def Info: ./activity_create_pub.jpg used on input line 677.
 (pdftex.def)             Requested size: 446.9055pt x 257.4175pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
+Underfull \hbox (badness 10000) in paragraph at lines 677--678
 
  []
 
-[35 <./activity_logout.jpg>]
-<./activity_remove_author.jpg, id=451, 608.2725pt x 344.78813pt>
+[36 <./activity_logout.jpg>]
+<./activity_remove_author.jpg, id=471, 608.2725pt x 344.78813pt>
 File: ./activity_remove_author.jpg Graphic file (type jpg)
 
 <use ./activity_remove_author.jpg>
-Package pdftex.def Info: ./activity_remove_author.jpg used on input line 681.
+Package pdftex.def Info: ./activity_remove_author.jpg used on input line 680.
 (pdftex.def)             Requested size: 446.9055pt x 253.32416pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 681--682
+Underfull \hbox (badness 10000) in paragraph at lines 680--681
 
  []
 
-[36 <./activity_create_pub.jpg> <./activity_remove_author.jpg>]
-<./activity_add_author.jpg, id=457, 608.2725pt x 462.97969pt>
+[37 <./activity_create_pub.jpg> <./activity_remove_author.jpg>]
+<./activity_add_author.jpg, id=476, 608.2725pt x 462.97969pt>
 File: ./activity_add_author.jpg Graphic file (type jpg)
 
 <use ./activity_add_author.jpg>
-Package pdftex.def Info: ./activity_add_author.jpg used on input line 684.
+Package pdftex.def Info: ./activity_add_author.jpg used on input line 683.
 (pdftex.def)             Requested size: 446.9055pt x 340.16234pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
 
  []
 
-<./activity_edit_pub.jpg, id=458, 738.50906pt x 426.09187pt>
+<./activity_edit_pub.jpg, id=477, 738.50906pt x 426.09187pt>
 File: ./activity_edit_pub.jpg Graphic file (type jpg)
 
 <use ./activity_edit_pub.jpg>
-Package pdftex.def Info: ./activity_edit_pub.jpg used on input line 687.
+Package pdftex.def Info: ./activity_edit_pub.jpg used on input line 686.
 (pdftex.def)             Requested size: 446.9055pt x 257.84813pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 687--688
+Underfull \hbox (badness 10000) in paragraph at lines 686--687
 
  []
 
-[37 <./activity_add_author.jpg>]
-<./activity_view_pub.jpg, id=463, 575.90157pt x 347.79938pt>
+[38 <./activity_add_author.jpg>]
+<./activity_view_pub.jpg, id=482, 575.90157pt x 347.79938pt>
 File: ./activity_view_pub.jpg Graphic file (type jpg)
 
 <use ./activity_view_pub.jpg>
-Package pdftex.def Info: ./activity_view_pub.jpg used on input line 690.
+Package pdftex.def Info: ./activity_view_pub.jpg used on input line 689.
 (pdftex.def)             Requested size: 446.9055pt x 269.9026pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 690--691
+Underfull \hbox (badness 10000) in paragraph at lines 689--690
 
  []
 
-[38 <./activity_edit_pub.jpg> <./activity_view_pub.jpg>]
-<./actvity_view_profile.jpg, id=468, 612.78937pt x 500.62032pt>
+[39 <./activity_edit_pub.jpg> <./activity_view_pub.jpg>]
+<./actvity_view_profile.jpg, id=487, 612.78937pt x 500.62032pt>
 File: ./actvity_view_profile.jpg Graphic file (type jpg)
 
 <use ./actvity_view_profile.jpg>
-Package pdftex.def Info: ./actvity_view_profile.jpg used on input line 693.
+Package pdftex.def Info: ./actvity_view_profile.jpg used on input line 692.
 (pdftex.def)             Requested size: 446.9055pt x 365.0984pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 693--694
+Underfull \hbox (badness 10000) in paragraph at lines 692--693
 
  []
 
-<./activity_edit_profile.jpg, id=469, 738.50906pt x 412.54124pt>
+<./activity_edit_profile.jpg, id=488, 738.50906pt x 412.54124pt>
 File: ./activity_edit_profile.jpg Graphic file (type jpg)
 
 <use ./activity_edit_profile.jpg>
-Package pdftex.def Info: ./activity_edit_profile.jpg used on input line 696.
+Package pdftex.def Info: ./activity_edit_profile.jpg used on input line 695.
 (pdftex.def)             Requested size: 446.9055pt x 249.64803pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 696--697
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
 
  []
 
-[39 <./actvity_view_profile.jpg>]
-<./activity_generate_report.jpg, id=474, 622.57594pt x 346.29375pt>
+[40 <./actvity_view_profile.jpg>]
+<./activity_generate_report.jpg, id=493, 622.57594pt x 346.29375pt>
 File: ./activity_generate_report.jpg Graphic file (type jpg)
 
 <use ./activity_generate_report.jpg>
-Package pdftex.def Info: ./activity_generate_report.jpg used on input line 699.
+Package pdftex.def Info: ./activity_generate_report.jpg used on input line 698.
 
 (pdftex.def)             Requested size: 446.9055pt x 248.58096pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 699--700
+Underfull \hbox (badness 10000) in paragraph at lines 698--699
 
  []
 
-[40 <./activity_edit_profile.jpg> <./activity_generate_report.jpg>]
-<./Domain.jpg, id=479, 828.09375pt x 530.98375pt>
+[41 <./activity_edit_profile.jpg> <./activity_generate_report.jpg>]
+<./Domain.jpg, id=498, 828.09375pt x 530.98375pt>
 File: ./Domain.jpg Graphic file (type jpg)
  <use ./Domain.jpg>
-Package pdftex.def Info: ./Domain.jpg used on input line 702.
+Package pdftex.def Info: ./Domain.jpg used on input line 701.
 (pdftex.def)             Requested size: 446.9055pt x 286.5649pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
 
  []
 
-[41 <./Domain.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 708.
- [42]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 708.
+[42 <./Domain.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 707.
+ [43]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 707.
  (TeamDelta.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 708.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 708.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 707.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 707.
 Package rerunfilecheck Info: File `TeamDelta.out' has not changed.
-(rerunfilecheck)             Checksum: D2D6F9C4327F86FABFD280669DE99376;4367.
+(rerunfilecheck)             Checksum: 05E18D4A9CF08B66F4E301A250FB772A;4606.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 708.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 707.
  ) 
 Here is how much of TeX's memory you used:
- 5345 strings out of 493634
- 81834 string characters out of 3134423
- 162637 words of memory out of 3000000
- 8584 multiletter control sequences out of 15000+200000
+ 5352 strings out of 493622
+ 81999 string characters out of 3133099
+ 162745 words of memory out of 3000000
+ 8600 multiletter control sequences out of 15000+200000
  10005 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,28p,709b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Kinwifu/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Kinwifu/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TeamDelta.pdf (43 pages, 1412042 bytes).
+ 29i,7n,28p,659b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Hlengekile/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/Hlengekile/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Hlengekile/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Hlengekile/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on TeamDelta.pdf (44 pages, 1415098 bytes).
 PDF statistics:
- 528 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 566 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 548 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 590 words of extra memory for PDF output out of 10000 (max. 10000000)
 
