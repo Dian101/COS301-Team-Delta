@@ -18,8 +18,9 @@
 \contentsline {subsubsection}{\numberline {4.3.6}Flexibility:}{12}{subsubsection.4.3.6}
 \contentsline {subsubsection}{\numberline {4.3.7}Maintainability:}{13}{subsubsection.4.3.7}
 \contentsline {subsection}{\numberline {4.4}Use of reference architectures and frameworks}{14}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Access and Integration Channels}{14}{subsection.4.5}
-\contentsline {subsubsection}{\numberline {4.5.1}Access Channels}{14}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.4.1}Examples of reference architectures}{14}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Access and Integration Channels}{15}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Access Channels}{15}{subsubsection.4.5.1}
 \contentsline {subsubsection}{\numberline {4.5.2}Integration Channels}{15}{subsubsection.4.5.2}
 \contentsline {subsection}{\numberline {4.6}Technologies}{16}{subsection.4.6}
 \contentsline {subsubsection}{\numberline {4.6.1}Programming languages}{16}{subsubsection.4.6.1}
@@ -56,3 +57,4 @@
 \contentsline {subsubsection}{\numberline {5.4.11}Generate Report Activity Diagram}{41}{subsubsection.5.4.11}
 \contentsline {subsection}{\numberline {5.5}Domain Model}{42}{subsection.5.5}
 \contentsline {section}{\numberline {6}Open Issues}{43}{section.6}
+\contentsline {subsection}{\numberline {6.1}References}{43}{subsection.6.1}
